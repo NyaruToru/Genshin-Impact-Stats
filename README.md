@@ -1,17 +1,15 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">
-  🕒 Updated at <u>Nov 22, 2022 10:55 +0700</u> (🤖automated)
-</h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 22, 2022 11:22 +0700</u></h3>
 <br />
 
-<h2>Daily Rewards</h2>
+<h2>รางวัลรายวัน</h2>
 <table>
   <tr>
-    <td>Total Rewards Claimed</td>
+    <td>จำนวนรางวัล</td>
     <td>17</td>
   </tr>
   <tr>
-    <td>Last Claimed Reward</td>
+    <td>รับล่าสุด</td>
     <td>5000 x Mora</td>
   </tr>
 </table>
@@ -19,27 +17,27 @@
 <h2>Stats</h2>
 <table>
   <tr>
-    <td>Achievements</td>
+    <td>ความสำเร็จ</td>
     <td>644</td>
   </tr>
   <tr>
-    <td>Days Active</td>
+    <td>จำนวนวันใช้งาน</td>
     <td>571</td>
   </tr>
   <tr>
-    <td>Characters</td>
+    <td>ตัวละคร</td>
     <td>44</td>
   </tr>
   <tr>
-    <td>Waypoints Unlocked</td>
+    <td>ปลดล็อกจุดเทเลพอร์ต</td>
     <td>243</td>
   </tr>
   <tr>
-    <td>Anemoculi</td>
+    <td>Anemoculus</td>
     <td>66</td>
   </tr>
   <tr>
-    <td>Geoculi</td>
+    <td>Geoculus</td>
     <td>131</td>
   </tr>
   <tr>
@@ -47,31 +45,31 @@
     <td>132</td>
   </tr>
   <tr>
-    <td>Electroculi</td>
+    <td>Electroculus</td>
     <td>181</td>
   </tr>
   <tr>
-    <td>Common Chests Opened</td>
+    <td>Common Chest</td>
     <td>1723</td>
   </tr>
   <tr>
-    <td>Exquisite Chests Opened</td>
+    <td>Exquisite Chest</td>
     <td>1194</td>
   </tr>
   <tr>
-    <td>Precious Chests Opened</td>
+    <td>Precious Chest</td>
     <td>342</td>
   </tr>
   <tr>
-    <td>Luxurious Chests Opened</td>
+    <td>Luxurious Chest</td>
     <td>141</td>
   </tr>
   <tr>
-    <td>Remarkable Chests Opened</td>
+    <td>จำนวนหีบสมบัติประหลาด</td>
     <td>76</td>
   </tr>
   <tr>
-    <td>Domains Unlocked</td>
+    <td>ปลดล็อกดันเจี้ยน</td>
     <td>42</td>
   </tr>
 </table>
@@ -81,7 +79,7 @@
   <tr>
     <th>Sumeru</th>
     <th>The Chasm: Underground Mines</th>
-    <th>The Chasm</th>
+    <th>Chasm</th>
     <th>Enkanomiya</th>
     <th>Inazuma</th>
     <th>Dragonspine</th>
@@ -277,7 +275,7 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Stately (12350)</td>
+    <td>หอไม้แกะสลัก (12350)</td>
   </tr>
   <tr>
     <td>Items</td>
@@ -311,7 +309,7 @@
     <td>33</td>
   </tr>
   <tr>
-    <td>Most Played Characters</td>
+    <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
@@ -337,7 +335,7 @@
     </td>
   </tr>
   <tr>
-    <td>Most Defeats</td>
+    <td>กำจัดศัตรูไปได้สูงสุด</td>
     <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
@@ -348,7 +346,7 @@
     </td>
   </tr>
   <tr>
-    <td>Strongest Single Strike</td>
+    <td>โจมตีแรงสุด</td>
     <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
@@ -359,7 +357,7 @@
     </td>
   </tr>
   <tr>
-    <td>Most Damage Taken</td>
+    <td>ได้รับความเสียหายมากที่สุด</td>
     <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
@@ -370,7 +368,7 @@
     </td>
   </tr>
   <tr>
-    <td>Elemental Bursts Unleashed</td>
+    <td>จำนวนการใช้ท่าไม้ตาย</td>
     <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
@@ -381,7 +379,7 @@
     </td>
   </tr>
   <tr>
-    <td>Elemental Skills Cast</td>
+    <td>จำนวนการใช้สกิลธาตุ</td>
     <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
@@ -552,7 +550,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>Sea Breeze Dandelion, Gunnhildr's Legacy</td>
+            <td>ความฝันในสายลมแห่งท้องทะเล, มรดกแห่ง Gunnhildr</td>
           </tr>
         </table>
       </td>
@@ -1127,7 +1125,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>Orchid's Evening Gown</td>
+            <td>กล้วยไม้อนธการ</td>
           </tr>
         </table>
       </td>
@@ -1318,11 +1316,11 @@
   </table>
 </details>
 <details>
-  <summary><b>Traveler</b></summary>
+  <summary><b>นักเดินทาง</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Traveler</h3></th>
+      <th><h3 align="center">นักเดินทาง</h3></th>
       <th><h3 align="center">Favonius Sword</h3></th>
     </tr>
     <tr>
@@ -2423,7 +2421,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>To the Church's Free Spirit</td>
+            <td>ถึงเสรีชนทางโบสถ์</td>
           </tr>
         </table>
       </td>
@@ -2586,7 +2584,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>Pact of Stars and Moon</td>
+            <td>สัญญาแห่งดวงดาวและจันทรา</td>
           </tr>
         </table>
       </td>
@@ -2669,7 +2667,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>Summertime Sparkle</td>
+            <td>ซัมเมอร์ซ่าท้าร้อน</td>
           </tr>
         </table>
       </td>
@@ -3243,7 +3241,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>100% Outrider</td>
+            <td>อัศวินลาดตระเวน 100%</td>
           </tr>
         </table>
       </td>
@@ -3723,7 +3721,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>Ein Immernachtstraum</td>
+            <td>ห้วงฝันแห่งรัตติกาล</td>
           </tr>
         </table>
       </td>
