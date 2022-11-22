@@ -14,7 +14,7 @@
     </tr>
 </table>
 
-<h2>Stats</h2>
+<h2>สถิติ</h2>
 <table>
     {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
     <tr>
@@ -24,7 +24,7 @@
     {%- endfor -%}
 </table>
 
-<h2>Exploration</h2>
+<h2>สำรวจ</h2>
 <table>
     <tr>
         {%- for exploration in user.explorations -%}
@@ -43,7 +43,7 @@
         <td>
             <table>
                 <tr>
-                    <td>Explored</td>
+                    <td>สำรวจแล้ว</td>
                     <td>
                         <img
                         src="https://progress-bar.dev/{{ _int(exploration.explored) }}/"
@@ -64,7 +64,7 @@
 <h2>Teapot</h2>
 <table>
     <tr>
-        <td>Level</td>
+        <td>เลเวล</td>
         <td>{{ user.teapot.level }}</td>
     </tr>
     <tr>
@@ -76,7 +76,7 @@
         <td>{{ user.teapot.items }}</td>
     </tr>
     <tr>
-        <td>Visitors</td>
+        <td>ผู้เยียมชม</td>
         <td>{{ user.teapot.visitors }}</td>
     </tr>
 </table>
@@ -86,23 +86,23 @@
 <h2>Spiral Abyss</h2>
 <table>
     <tr>
-        <td>Season</td>
+        <td>ฤดูกาล</td>
         <td>{{ abyss.season }}</td>
     </tr>
     <tr>
-        <td>Total Battles</td>
+        <td>การต่อสู้ทั้งหมด</td>
         <td>{{ abyss.total_battles }}</td>
     </tr>
     <tr>
-        <td>Total Wins</td>
+        <td>ชนะทั้งหมด</td>
         <td>{{ abyss.total_wins }}</td>
     </tr>
     <tr>
-        <td>Max Floor</td>
+        <td>ชั้นสูงสุด</td>
         <td>{{ abyss.max_floor }}</td>
     </tr>
     <tr>
-        <td>Total Stars</td>
+        <td>ดาว</td>
         <td>{{ abyss.total_stars }}</td>
     </tr>
     {%- for field, characters in abyss.ranks.as_dict(lang=lang).items() -%}
