@@ -18,7 +18,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-t", "--template", default="template.html", type=pathlib.Path)
 parser.add_argument("-o", "--output", default="stats.html", type=pathlib.Path)
 parser.add_argument("-c", "--cookies", default=None)
-parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
+parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="th-th")
 
 
 def format_date(date: "datetime"):
@@ -39,7 +39,7 @@ async def main():
     # must loads to dict
     cookies = json.loads(_c)
 
-    client = genshin.Client(cookies, debug=False, game=genshin.Game.GENSHIN, genshin.LANGS=th-th)
+    client = genshin.Client(cookies, debug=False, game=genshin.Game.GENSHIN)
 
     user = await client.get_full_genshin_user(0, lang=args.lang)
     abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
