@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 22, 2022 11:22 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 22, 2022 11:34 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-<h2>Stats</h2>
+<h2>สถิติ</h2>
 <table>
   <tr>
     <td>ความสำเร็จ</td>
@@ -74,7 +74,7 @@
   </tr>
 </table>
 
-<h2>Exploration</h2>
+<h2>สำรวจ</h2>
 <table>
   <tr>
     <th>Sumeru</th>
@@ -156,7 +156,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>สำรวจแล้ว</td>
           <td>
             <img src="https://progress-bar.dev/49/" width="80" />
           </td>
@@ -170,7 +170,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>สำรวจแล้ว</td>
           <td>
             <img src="https://progress-bar.dev/100/" width="80" />
           </td>
@@ -184,7 +184,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>สำรวจแล้ว</td>
           <td>
             <img src="https://progress-bar.dev/100/" width="80" />
           </td>
@@ -198,7 +198,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>สำรวจแล้ว</td>
           <td>
             <img src="https://progress-bar.dev/93/" width="80" />
           </td>
@@ -212,7 +212,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>สำรวจแล้ว</td>
           <td>
             <img src="https://progress-bar.dev/100/" width="80" />
           </td>
@@ -226,7 +226,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>สำรวจแล้ว</td>
           <td>
             <img src="https://progress-bar.dev/100/" width="80" />
           </td>
@@ -240,7 +240,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>สำรวจแล้ว</td>
           <td>
             <img src="https://progress-bar.dev/93/" width="80" />
           </td>
@@ -254,7 +254,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>สำรวจแล้ว</td>
           <td>
             <img src="https://progress-bar.dev/100/" width="80" />
           </td>
@@ -270,7 +270,7 @@
 <h2>Teapot</h2>
 <table>
   <tr>
-    <td>Level</td>
+    <td>เลเวล</td>
     <td>10</td>
   </tr>
   <tr>
@@ -282,30 +282,30 @@
     <td>838</td>
   </tr>
   <tr>
-    <td>Visitors</td>
+    <td>ผู้เยียมชม</td>
     <td>6</td>
   </tr>
 </table>
 <h2>Spiral Abyss</h2>
 <table>
   <tr>
-    <td>Season</td>
+    <td>ฤดูกาล</td>
     <td>58</td>
   </tr>
   <tr>
-    <td>Total Battles</td>
+    <td>การต่อสู้ทั้งหมด</td>
     <td>39</td>
   </tr>
   <tr>
-    <td>Total Wins</td>
+    <td>ชนะทั้งหมด</td>
     <td>19</td>
   </tr>
   <tr>
-    <td>Max Floor</td>
+    <td>ชั้นสูงสุด</td>
     <td>12-3</td>
   </tr>
   <tr>
-    <td>Total Stars</td>
+    <td>ดาว</td>
     <td>33</td>
   </tr>
   <tr>
