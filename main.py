@@ -39,7 +39,7 @@ async def main():
     # must loads to dict
     cookies = json.loads(_c)
 
-    client = genshin.Client(cookies, debug=False, game=genshin.Game.GENSHIN, lang=th-th)
+    client = genshin.Client(cookies, debug=False, game=genshin.Game.GENSHIN, genshin.LANGS=th-th)
 
     user = await client.get_full_genshin_user(0, lang=args.lang)
     abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
