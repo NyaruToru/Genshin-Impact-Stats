@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 26, 2022 09:55 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 26, 2022 10:16 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -394,18 +394,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5227 (rate -36)</td>
+    <td>5632 (rate -32)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5134073 (rate -38)</td>
+    <td>5194073 (rate -38)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1820 (35%)<br />Daily Activity: 1350 (26%)<br />Spiral Abyss: 1050
-      (21%)<br />Mail: 760 (15%)<br />Adventure: 156 (2%)<br />Quests: 90
-      (1%)<br />Other: 1 (0%)<br />
+      Events: 1820 (33%)<br />Daily Activity: 1350 (24%)<br />Mail: 1060
+      (19%)<br />Spiral Abyss: 1050 (19%)<br />Adventure: 156 (3%)<br />Other:
+      106 (1%)<br />Quests: 90 (1%)<br />
     </td>
   </tr>
 </table>
