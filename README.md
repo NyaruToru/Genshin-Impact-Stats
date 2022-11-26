@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 26, 2022 21:08 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 26, 2022 21:22 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>ความสำเร็จ</td>
-    <td>644</td>
+    <td>645</td>
   </tr>
   <tr>
     <td>จำนวนวันใช้งาน</td>
@@ -50,15 +50,15 @@
   </tr>
   <tr>
     <td>Common Chest</td>
-    <td>1723</td>
+    <td>1726</td>
   </tr>
   <tr>
     <td>Exquisite Chest</td>
-    <td>1194</td>
+    <td>1198</td>
   </tr>
   <tr>
     <td>Precious Chest</td>
-    <td>342</td>
+    <td>343</td>
   </tr>
   <tr>
     <td>Luxurious Chest</td>
@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td>จำนวนหีบสมบัติประหลาด</td>
-    <td>76</td>
+    <td>77</td>
   </tr>
   <tr>
     <td>ปลดล็อกดันเจี้ยน</td>
@@ -312,16 +312,16 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (19)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (19)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (19)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
