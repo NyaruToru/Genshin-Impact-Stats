@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 26, 2022 20:55 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 26, 2022 21:08 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -710,7 +710,7 @@
             <td>Artifacts</td>
             <td>
               2 x Crimson Witch of Flames<br />1 x Shimenawa's Reminiscence<br />1
-              x Gladiator's Finale<br />1 x Gilded Dreams<br />
+              x Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -874,8 +874,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              3 x Emblem of Severed Fate<br />1 x Tenacity of the Millelith<br />1
-              x Husk of Opulent Dreams<br />
+              2 x Emblem of Severed Fate<br />1 x Tenacity of the Millelith<br />1
+              x Husk of Opulent Dreams<br />1 x Shimenawa's Reminiscence<br />
             </td>
           </tr>
           <tr>
@@ -1038,9 +1038,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              4 x Emblem of Severed Fate<br />1 x Shimenawa's Reminiscence<br />
-            </td>
+            <td>4 x Emblem of Severed Fate<br />1 x Deepwood Memories<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1283,7 +1281,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
+            <td>4 x Gilded Dreams<br />1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1363,7 +1361,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Gladiator's Finale<br /></td>
+            <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1932,7 +1930,7 @@
             <td>Artifacts</td>
             <td>
               2 x Thundering Fury<br />1 x Bloodstained Chivalry<br />1 x
-              Wanderer's Troupe<br />1 x Deepwood Memories<br />
+              Wanderer's Troupe<br />1 x Emblem of Severed Fate<br />
             </td>
           </tr>
           <tr>
@@ -2416,7 +2414,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>5 x Gilded Dreams<br /></td>
+            <td>2 x Gilded Dreams<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
