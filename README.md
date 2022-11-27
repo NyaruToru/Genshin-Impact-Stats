@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 27, 2022 20:00 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 27, 2022 20:24 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,11 +312,6 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (19)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -327,6 +322,11 @@
         height="18"
       />
       Nahida (19)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (19)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
@@ -874,8 +874,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Emblem of Severed Fate<br />1 x Tenacity of the Millelith<br />1
-              x Husk of Opulent Dreams<br />1 x Shimenawa's Reminiscence<br />
+              4 x Emblem of Severed Fate<br />1 x Tenacity of the Millelith<br />
             </td>
           </tr>
           <tr>
@@ -1441,7 +1440,10 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>5 x Emblem of Severed Fate<br /></td>
+            <td>
+              3 x Emblem of Severed Fate<br />1 x Husk of Opulent Dreams<br />1
+              x Shimenawa's Reminiscence<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
