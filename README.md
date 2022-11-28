@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 28, 2022 06:58 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 28, 2022 08:13 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td>จำนวนวันใช้งาน</td>
-    <td>574</td>
+    <td>575</td>
   </tr>
   <tr>
     <td>ตัวละคร</td>
@@ -312,21 +312,21 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (19)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (19)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
       Yelan (19)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (19)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (19)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6038 (rate -27)</td>
+    <td>6068 (rate -26)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5444178 (rate -35)</td>
+    <td>5500753 (rate -34)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1850 (31%)<br />Daily Activity: 1470 (25%)<br />Mail: 1160
+      Events: 1850 (31%)<br />Daily Activity: 1480 (25%)<br />Mail: 1180
       (20%)<br />Spiral Abyss: 1050 (17%)<br />Other: 211 (3%)<br />Adventure:
       207 (3%)<br />Quests: 90 (1%)<br />
     </td>
