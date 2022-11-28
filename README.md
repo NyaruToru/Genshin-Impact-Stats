@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 28, 2022 15:57 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 28, 2022 16:13 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -417,7 +417,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kamisato Ayaka</h3></th>
-      <th><h3 align="center">Primordial Jade Cutter</h3></th>
+      <th><h3 align="center">Sacrificial Sword</h3></th>
     </tr>
     <tr>
       <td>
@@ -430,7 +430,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
           />
         </p>
       </td>
@@ -461,8 +461,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Shimenawa's Reminiscence<br />2 x Noblesse Oblige<br />1 x
-              Crimson Witch of Flames<br />
+              2 x Shimenawa's Reminiscence<br />1 x Emblem of Severed Fate<br />1
+              x Noblesse Oblige<br />1 x Crimson Witch of Flames<br />
             </td>
           </tr>
           <tr>
@@ -475,15 +475,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Primordial Jade Cutter</td>
+            <td>Sacrificial Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -709,8 +709,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Crimson Witch of Flames<br />1 x Shimenawa's Reminiscence<br />1
-              x Gladiator's Finale<br />
+              4 x Shimenawa's Reminiscence<br />1 x Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -874,7 +873,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              4 x Emblem of Severed Fate<br />1 x Tenacity of the Millelith<br />
+              3 x Emblem of Severed Fate<br />1 x Tenacity of the Millelith<br />1
+              x Deepwood Memories<br />
             </td>
           </tr>
           <tr>
@@ -956,7 +956,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Shimenawa's Reminiscence<br />2 x Gilded Dreams<br />1 x
+              2 x Crimson Witch of Flames<br />2 x Gilded Dreams<br />1 x
               Gladiator's Finale<br />
             </td>
           </tr>
@@ -1038,7 +1038,9 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Emblem of Severed Fate<br />1 x Deepwood Memories<br /></td>
+            <td>
+              4 x Emblem of Severed Fate<br />1 x Shimenawa's Reminiscence<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1398,7 +1400,7 @@
   <table>
     <tr>
       <th><h3 align="center">Xingqiu</h3></th>
-      <th><h3 align="center">Sacrificial Sword</h3></th>
+      <th><h3 align="center">Primordial Jade Cutter</h3></th>
     </tr>
     <tr>
       <td>
@@ -1411,7 +1413,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
           />
         </p>
       </td>
@@ -1441,10 +1443,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              3 x Emblem of Severed Fate<br />1 x Husk of Opulent Dreams<br />1
-              x Shimenawa's Reminiscence<br />
-            </td>
+            <td>4 x Emblem of Severed Fate<br />1 x Noblesse Oblige<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1456,15 +1455,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Sacrificial Sword</td>
+            <td>Primordial Jade Cutter</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1849,9 +1848,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              4 x Husk of Opulent Dreams<br />1 x Emblem of Severed Fate<br />
-            </td>
+            <td>5 x Husk of Opulent Dreams<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2497,9 +2494,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              1 x Gladiator's Finale<br />1 x Shimenawa's Reminiscence<br />
-            </td>
+            <td>1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
