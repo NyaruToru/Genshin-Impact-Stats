@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 29, 2022 21:55 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 29, 2022 22:08 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,21 +312,21 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (19)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (19)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (19)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (19)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (19)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
@@ -461,8 +461,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Shimenawa's Reminiscence<br />2 x Gladiator's Finale<br />1 x
-              Noblesse Oblige<br />
+              2 x Crimson Witch of Flames<br />1 x Emblem of Severed Fate<br />1
+              x Noblesse Oblige<br />1 x Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -957,7 +957,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Crimson Witch of Flames<br />2 x Gilded Dreams<br />1 x
+              2 x Shimenawa's Reminiscence<br />2 x Gilded Dreams<br />1 x
               Gladiator's Finale<br />
             </td>
           </tr>
@@ -1364,7 +1364,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
+            <td>1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2495,7 +2495,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Emblem of Severed Fate<br /></td>
+            <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
