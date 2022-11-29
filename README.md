@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 29, 2022 09:45 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 29, 2022 10:16 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,21 +312,21 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (19)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (19)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (19)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (19)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (19)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
@@ -417,7 +417,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kamisato Ayaka</h3></th>
-      <th><h3 align="center">Sacrificial Sword</h3></th>
+      <th><h3 align="center">Primordial Jade Cutter</h3></th>
     </tr>
     <tr>
       <td>
@@ -430,7 +430,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
           />
         </p>
       </td>
@@ -461,8 +461,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Shimenawa's Reminiscence<br />1 x Emblem of Severed Fate<br />1
-              x Noblesse Oblige<br />1 x Crimson Witch of Flames<br />
+              2 x Shimenawa's Reminiscence<br />2 x Gladiator's Finale<br />1 x
+              Noblesse Oblige<br />
             </td>
           </tr>
           <tr>
@@ -475,15 +475,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Sacrificial Sword</td>
+            <td>Primordial Jade Cutter</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -709,7 +709,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              4 x Shimenawa's Reminiscence<br />1 x Gladiator's Finale<br />
+              1 x Blizzard Strayer<br />3 x Shimenawa's Reminiscence<br />1 x
+              Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -1400,7 +1401,7 @@
   <table>
     <tr>
       <th><h3 align="center">Xingqiu</h3></th>
-      <th><h3 align="center">Primordial Jade Cutter</h3></th>
+      <th><h3 align="center">Sacrificial Sword</h3></th>
     </tr>
     <tr>
       <td>
@@ -1413,7 +1414,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
           />
         </p>
       </td>
@@ -1455,15 +1456,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Primordial Jade Cutter</td>
+            <td>Sacrificial Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -2494,7 +2495,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Gladiator's Finale<br /></td>
+            <td>1 x Emblem of Severed Fate<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2574,7 +2575,9 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Blizzard Strayer<br /></td>
+            <td>
+              1 x Shimenawa's Reminiscence<br />3 x Blizzard Strayer<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2655,8 +2658,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Noblesse Oblige<br />2 x Viridescent Venerer<br />1 x
-              Gladiator's Finale<br />
+              1 x Noblesse Oblige<br />2 x Viridescent Venerer<br />1 x Crimson
+              Witch of Flames<br />
             </td>
           </tr>
           <tr>
