@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 30, 2022 06:37 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Nov 30, 2022 06:44 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -317,16 +317,16 @@
         height="18"
       />
       Raiden Shogun (19)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (19)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (19)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (19)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
@@ -3892,6 +3892,86 @@
           <tr>
             <td>Rarity</td>
             <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Layla</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Layla</h3></th>
+      <th><h3 align="center">Dull Blade</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Layla.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Dull Blade</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Level</td>
