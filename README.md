@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 01, 2022 05:56 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 01, 2022 06:11 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -461,8 +461,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Crimson Witch of Flames<br />2 x Gladiator's Finale<br />1 x
-              Noblesse Oblige<br />
+              2 x Crimson Witch of Flames<br />1 x Gilded Dreams<br />1 x
+              Noblesse Oblige<br />1 x Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -544,8 +544,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Viridescent Venerer<br />2 x Bloodstained Chivalry<br />1 x
-              Shimenawa's Reminiscence<br />
+              1 x Noblesse Oblige<br />1 x Viridescent Venerer<br />2 x
+              Bloodstained Chivalry<br />1 x Wanderer's Troupe<br />
             </td>
           </tr>
           <tr>
@@ -956,8 +956,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Shimenawa's Reminiscence<br />2 x Gilded Dreams<br />1 x
-              Gladiator's Finale<br />
+              2 x Gladiator's Finale<br />1 x Husk of Opulent Dreams<br />1 x
+              Gilded Dreams<br />
             </td>
           </tr>
           <tr>
@@ -1121,7 +1121,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>2 x Archaic Petra<br />1 x Gladiator's Finale<br /></td>
+            <td>2 x Archaic Petra<br />1 x Viridescent Venerer<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1202,7 +1202,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Tenacity of the Millelith<br />2 x Wanderer's Troupe<br />1 x
+              2 x Tenacity of the Millelith<br />1 x Wanderer's Troupe<br />1 x
               Gilded Dreams<br />
             </td>
           </tr>
@@ -1241,7 +1241,7 @@
   <table>
     <tr>
       <th><h3 align="center">Nahida</h3></th>
-      <th><h3 align="center">Sacrificial Fragments</h3></th>
+      <th><h3 align="center">Prototype Amber</h3></th>
     </tr>
     <tr>
       <td>
@@ -1254,7 +1254,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Proto.png"
           />
         </p>
       </td>
@@ -1296,7 +1296,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Sacrificial Fragments</td>
+            <td>Prototype Amber</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1304,11 +1304,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>50</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -1444,7 +1444,10 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>3 x Emblem of Severed Fate<br />2 x Noblesse Oblige<br /></td>
+            <td>
+              3 x Emblem of Severed Fate<br />1 x Crimson Witch of Flames<br />1
+              x Noblesse Oblige<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1524,7 +1527,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Crimson Witch of Flames<br />2 x Noblesse Oblige<br /></td>
+            <td>5 x Noblesse Oblige<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1769,7 +1772,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>5 x Husk of Opulent Dreams<br /></td>
+            <td>4 x Husk of Opulent Dreams<br />1 x Wanderer's Troupe<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1969,7 +1972,7 @@
   <table>
     <tr>
       <th><h3 align="center">Sucrose</h3></th>
-      <th><h3 align="center">Apprentice's Notes</h3></th>
+      <th><h3 align="center">Sacrificial Fragments</h3></th>
     </tr>
     <tr>
       <td>
@@ -1982,7 +1985,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
           />
         </p>
       </td>
@@ -2012,7 +2015,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>2 x Wanderer's Troupe<br />1 x Viridescent Venerer<br /></td>
+            <td>1 x Wanderer's Troupe<br />3 x Viridescent Venerer<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2024,19 +2027,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Apprentice's Notes</td>
+            <td>Sacrificial Fragments</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>1</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -2658,8 +2661,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Noblesse Oblige<br />2 x Viridescent Venerer<br />1 x Crimson
-              Witch of Flames<br />
+              3 x Shimenawa's Reminiscence<br />2 x Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -2740,7 +2742,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Noblesse Oblige<br /></td>
+            <td>2 x Noblesse Oblige<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3150,8 +3152,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Instructor<br />1 x Maiden Beloved<br />1 x Viridescent
-              Venerer<br />
+              1 x Instructor<br />1 x Maiden Beloved<br />1 x Wanderer's
+              Troupe<br />
             </td>
           </tr>
           <tr>
