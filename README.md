@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 01, 2022 19:56 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 01, 2022 20:29 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,16 +312,6 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (3)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
@@ -331,7 +321,17 @@
         ,
         height="18"
       />
-      Raiden Shogun (3)<br />
+      Raiden Shogun (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
+        ,
+        height="18"
+      />
+      Albedo (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (3)<br />
     </td>
   </tr>
   <tr>
