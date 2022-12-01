@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 01, 2022 06:59 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 01, 2022 08:47 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -290,92 +290,92 @@
 <table>
   <tr>
     <td>ฤดูกาล</td>
-    <td>58</td>
+    <td>59</td>
   </tr>
   <tr>
     <td>การต่อสู้ทั้งหมด</td>
-    <td>39</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>ชนะทั้งหมด</td>
-    <td>19</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>ชั้นสูงสุด</td>
-    <td>12-3</td>
+    <td>9-3</td>
   </tr>
   <tr>
     <td>ดาว</td>
-    <td>33</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (3)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (19)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+      Raiden Shogun (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
         ,
         height="18"
       />
-      Yelan (19)<br /><img
+      Albedo (3)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (19)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (16)<br />
+      Nahida (3)<br />
     </td>
   </tr>
   <tr>
     <td>กำจัดศัตรูไปได้สูงสุด</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Raiden Shogun (96)<br />
+      Kamisato Ayaka (29)<br />
     </td>
   </tr>
   <tr>
     <td>โจมตีแรงสุด</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Hu Tao (134230)<br />
+      Raiden Shogun (82211)<br />
     </td>
   </tr>
   <tr>
     <td>ได้รับความเสียหายมากที่สุด</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Raiden Shogun (236912)<br />
+      Kamisato Ayaka (7471)<br />
     </td>
   </tr>
   <tr>
     <td>จำนวนการใช้ท่าไม้ตาย</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Raiden Shogun (59)<br />
+      Nahida (4)<br />
     </td>
   </tr>
   <tr>
@@ -386,7 +386,7 @@
         ,
         height="18"
       />
-      Yae Miko (164)<br />
+      Yae Miko (24)<br />
     </td>
   </tr>
 </table>
@@ -394,18 +394,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6548 (rate -21)</td>
+    <td>200 (rate -96)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5667838 (rate -32)</td>
+    <td>134821 (rate -97)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1970 (31%)<br />Daily Activity: 1630 (25%)<br />Mail: 1180
-      (18%)<br />Spiral Abyss: 1050 (16%)<br />Other: 421 (6%)<br />Adventure:
-      207 (3%)<br />Quests: 90 (1%)<br />
+      Spiral Abyss: 150 (75%)<br />Events: 40 (20%)<br />Daily Activity: 10
+      (5%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
