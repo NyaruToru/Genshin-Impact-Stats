@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 01, 2022 08:47 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 01, 2022 10:03 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,11 +312,6 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        ,
-        height="18"
-      />
-      Jean (3)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -331,7 +326,12 @@
         ,
         height="18"
       />
-      Nahida (3)<br />
+      Nahida (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (3)<br />
     </td>
   </tr>
   <tr>
