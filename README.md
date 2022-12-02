@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 02, 2022 20:08 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 02, 2022 20:29 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -874,7 +874,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              4 x Emblem of Severed Fate<br />1 x Shimenawa's Reminiscence<br />
+              3 x Emblem of Severed Fate<br />1 x Shimenawa's Reminiscence<br />1
+              x Deepwood Memories<br />
             </td>
           </tr>
           <tr>
@@ -912,7 +913,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yae Miko</h3></th>
-      <th><h3 align="center">The Widsith</h3></th>
+      <th><h3 align="center">Prototype Amber</h3></th>
     </tr>
     <tr>
       <td>
@@ -925,7 +926,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Proto.png"
           />
         </p>
       </td>
@@ -967,7 +968,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>The Widsith</td>
+            <td>Prototype Amber</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -975,11 +976,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>50</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -1036,8 +1037,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              3 x Emblem of Severed Fate<br />1 x Shimenawa's Reminiscence<br />1
-              x Deepwood Memories<br />
+              4 x Emblem of Severed Fate<br />1 x Shimenawa's Reminiscence<br />
             </td>
           </tr>
           <tr>
@@ -1238,7 +1238,7 @@
   <table>
     <tr>
       <th><h3 align="center">Nahida</h3></th>
-      <th><h3 align="center">Prototype Amber</h3></th>
+      <th><h3 align="center">Sacrificial Fragments</h3></th>
     </tr>
     <tr>
       <td>
@@ -1251,7 +1251,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Proto.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
           />
         </p>
       </td>
@@ -1293,7 +1293,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Prototype Amber</td>
+            <td>Sacrificial Fragments</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1301,11 +1301,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -1361,7 +1361,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Gladiator's Finale<br /></td>
+            <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1969,7 +1969,7 @@
   <table>
     <tr>
       <th><h3 align="center">Sucrose</h3></th>
-      <th><h3 align="center">Sacrificial Fragments</h3></th>
+      <th><h3 align="center">The Widsith</h3></th>
     </tr>
     <tr>
       <td>
@@ -1982,7 +1982,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
           />
         </p>
       </td>
@@ -2024,7 +2024,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Sacrificial Fragments</td>
+            <td>The Widsith</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2032,7 +2032,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -2578,7 +2578,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Deepwood Memories<br />1 x Emblem of Severed Fate<br /></td>
+            <td>1 x Emblem of Severed Fate<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3951,7 +3951,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Artifacts</td>
