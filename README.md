@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 02, 2022 20:29 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 02, 2022 20:38 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -294,44 +294,44 @@
   </tr>
   <tr>
     <td>การต่อสู้ทั้งหมด</td>
-    <td>3</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>ชนะทั้งหมด</td>
-    <td>3</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>ชั้นสูงสุด</td>
-    <td>9-3</td>
+    <td>10-3</td>
   </tr>
   <tr>
     <td>ดาว</td>
-    <td>9</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (6)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (3)<br /><img
+      Kamisato Ayaka (6)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
       />
-      Jean (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
-        ,
-        height="18"
-      />
-      Albedo (3)<br />
+      Jean (6)<br />
     </td>
   </tr>
   <tr>
@@ -342,7 +342,7 @@
         ,
         height="18"
       />
-      Kamisato Ayaka (29)<br />
+      Kamisato Ayaka (37)<br />
     </td>
   </tr>
   <tr>
@@ -353,7 +353,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (82211)<br />
+      Raiden Shogun (93547)<br />
     </td>
   </tr>
   <tr>
@@ -364,7 +364,7 @@
         ,
         height="18"
       />
-      Kamisato Ayaka (7471)<br />
+      Kamisato Ayaka (25191)<br />
     </td>
   </tr>
   <tr>
@@ -375,7 +375,7 @@
         ,
         height="18"
       />
-      Nahida (4)<br />
+      Nahida (9)<br />
     </td>
   </tr>
   <tr>
@@ -386,7 +386,7 @@
         ,
         height="18"
       />
-      Yae Miko (24)<br />
+      Yae Miko (54)<br />
     </td>
   </tr>
 </table>
