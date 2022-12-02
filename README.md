@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 02, 2022 19:13 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 02, 2022 19:46 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -50,11 +50,11 @@
   </tr>
   <tr>
     <td>Common Chest</td>
-    <td>1726</td>
+    <td>1727</td>
   </tr>
   <tr>
     <td>Exquisite Chest</td>
-    <td>1198</td>
+    <td>1199</td>
   </tr>
   <tr>
     <td>Precious Chest</td>
@@ -312,6 +312,16 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (3)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -321,17 +331,7 @@
         ,
         height="18"
       />
-      Albedo (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (3)<br />
+      Albedo (3)<br />
     </td>
   </tr>
   <tr>
