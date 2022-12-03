@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 04, 2022 05:56 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 04, 2022 06:10 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,26 +312,26 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
         ,
         height="18"
       />
-      Zhongli (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+      Albedo (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+      Nahida (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Jean (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+      Yae Miko (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Raiden Shogun (6)<br />
+      Yelan (6)<br />
     </td>
   </tr>
   <tr>
