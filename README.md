@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 04, 2022 14:35 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 04, 2022 14:42 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -294,44 +294,44 @@
   </tr>
   <tr>
     <td>การต่อสู้ทั้งหมด</td>
-    <td>6</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>ชนะทั้งหมด</td>
-    <td>6</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>ชั้นสูงสุด</td>
-    <td>10-3</td>
+    <td>11-3</td>
   </tr>
   <tr>
     <td>ดาว</td>
-    <td>18</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        ,
-        height="18"
-      />
-      Jean (6)<br /><img
+      Kamisato Ayaka (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
+      Raiden Shogun (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Albedo (6)<br />
+      Nahida (9)<br />
     </td>
   </tr>
   <tr>
@@ -342,7 +342,7 @@
         ,
         height="18"
       />
-      Kamisato Ayaka (37)<br />
+      Kamisato Ayaka (41)<br />
     </td>
   </tr>
   <tr>
@@ -353,7 +353,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (93547)<br />
+      Raiden Shogun (104426)<br />
     </td>
   </tr>
   <tr>
@@ -364,7 +364,7 @@
         ,
         height="18"
       />
-      Kamisato Ayaka (25191)<br />
+      Kamisato Ayaka (27214)<br />
     </td>
   </tr>
   <tr>
@@ -375,7 +375,7 @@
         ,
         height="18"
       />
-      Nahida (9)<br />
+      Nahida (15)<br />
     </td>
   </tr>
   <tr>
@@ -386,7 +386,7 @@
         ,
         height="18"
       />
-      Yae Miko (54)<br />
+      Yae Miko (105)<br />
     </td>
   </tr>
 </table>
@@ -709,7 +709,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Blizzard Strayer<br />1 x Tenacity of the Millelith<br />1 x
+              1 x Blizzard Strayer<br />1 x Deepwood Memories<br />1 x
               Shimenawa's Reminiscence<br />1 x Gladiator's Finale<br />1 x Husk
               of Opulent Dreams<br />
             </td>
@@ -874,10 +874,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              3 x Emblem of Severed Fate<br />1 x Shimenawa's Reminiscence<br />1
-              x Deepwood Memories<br />
-            </td>
+            <td>5 x Emblem of Severed Fate<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -914,7 +911,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yae Miko</h3></th>
-      <th><h3 align="center">Prototype Amber</h3></th>
+      <th><h3 align="center">The Widsith</h3></th>
     </tr>
     <tr>
       <td>
@@ -927,7 +924,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Proto.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
           />
         </p>
       </td>
@@ -957,7 +954,10 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>2 x Gladiator's Finale<br />1 x Gilded Dreams<br /></td>
+            <td>
+              2 x Shimenawa's Reminiscence<br />2 x Gilded Dreams<br />1 x
+              Gladiator's Finale<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -969,7 +969,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Prototype Amber</td>
+            <td>The Widsith</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -977,11 +977,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -1200,8 +1200,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Tenacity of the Millelith<br />2 x Wanderer's Troupe<br />1 x
-              Gilded Dreams<br />
+              1 x Gladiator's Finale<br />1 x Tenacity of the Millelith<br />1 x
+              Heart of Depth<br />1 x Wanderer's Troupe<br />
             </td>
           </tr>
           <tr>
@@ -1443,8 +1443,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              3 x Emblem of Severed Fate<br />1 x Crimson Witch of Flames<br />1
-              x Noblesse Oblige<br />
+              1 x Emblem of Severed Fate<br />1 x Crimson Witch of Flames<br />1
+              x Noblesse Oblige<br />1 x Deepwood Memories<br />
             </td>
           </tr>
           <tr>
@@ -1525,7 +1525,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>5 x Noblesse Oblige<br /></td>
+            <td>2 x Noblesse Oblige<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1606,8 +1606,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Gladiator's Finale<br />1 x Deepwood Memories<br />1 x Heart
-              of Depth<br />1 x Wanderer's Troupe<br />
+              2 x Tenacity of the Millelith<br />2 x Wanderer's Troupe<br />1 x
+              Gilded Dreams<br />
             </td>
           </tr>
           <tr>
@@ -1852,7 +1852,10 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>5 x Husk of Opulent Dreams<br /></td>
+            <td>
+              2 x Husk of Opulent Dreams<br />2 x Emblem of Severed Fate<br />1
+              x Gilded Dreams<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1934,7 +1937,7 @@
             <td>Artifacts</td>
             <td>
               2 x Thundering Fury<br />1 x Bloodstained Chivalry<br />1 x
-              Wanderer's Troupe<br />1 x Emblem of Severed Fate<br />
+              Wanderer's Troupe<br />1 x Husk of Opulent Dreams<br />
             </td>
           </tr>
           <tr>
@@ -1972,7 +1975,7 @@
   <table>
     <tr>
       <th><h3 align="center">Sucrose</h3></th>
-      <th><h3 align="center">The Widsith</h3></th>
+      <th><h3 align="center">Prototype Amber</h3></th>
     </tr>
     <tr>
       <td>
@@ -1985,7 +1988,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Proto.png"
           />
         </p>
       </td>
@@ -2027,7 +2030,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>The Widsith</td>
+            <td>Prototype Amber</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2035,11 +2038,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>50</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -2455,7 +2458,7 @@
   <table>
     <tr>
       <th><h3 align="center">Shikanoin Heizou</h3></th>
-      <th><h3 align="center">Skyward Atlas</h3></th>
+      <th><h3 align="center">Oathsworn Eye</h3></th>
     </tr>
     <tr>
       <td>
@@ -2468,7 +2471,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Jyanome.png"
           />
         </p>
       </td>
@@ -2499,8 +2502,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Crimson Witch of Flames<br />1 x Gilded Dreams<br />1 x
-              Gladiator's Finale<br />1 x Shimenawa's Reminiscence<br />
+              2 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />1 x
+              Shimenawa's Reminiscence<br />
             </td>
           </tr>
           <tr>
@@ -2513,19 +2516,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyward Atlas</td>
+            <td>Oathsworn Eye</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -2581,7 +2584,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Emblem of Severed Fate<br /></td>
+            <td>1 x Husk of Opulent Dreams<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2661,9 +2664,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              1 x Shimenawa's Reminiscence<br />3 x Blizzard Strayer<br />
-            </td>
+            <td>1 x Gladiator's Finale<br />3 x Blizzard Strayer<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2700,7 +2701,7 @@
   <table>
     <tr>
       <th><h3 align="center">Mona</h3></th>
-      <th><h3 align="center">Oathsworn Eye</h3></th>
+      <th><h3 align="center">Skyward Atlas</h3></th>
     </tr>
     <tr>
       <td>
@@ -2713,7 +2714,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Jyanome.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"
           />
         </p>
       </td>
@@ -2743,7 +2744,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>2 x Noblesse Oblige<br /></td>
+            <td>5 x Noblesse Oblige<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2755,19 +2756,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Oathsworn Eye</td>
+            <td>Skyward Atlas</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
