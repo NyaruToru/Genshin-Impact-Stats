@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 04, 2022 17:44 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 04, 2022 17:51 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,11 +312,6 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -327,11 +322,16 @@
         height="18"
       />
       Yae Miko (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Yelan (9)<br />
+      Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br />
     </td>
   </tr>
   <tr>
@@ -371,11 +371,11 @@
     <td>จำนวนการใช้ท่าไม้ตาย</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Nahida (15)<br />
+      Raiden Shogun (15)<br />
     </td>
   </tr>
   <tr>
@@ -627,7 +627,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              4 x Tenacity of the Millelith<br />1 x Emblem of Severed Fate<br />
+              3 x Tenacity of the Millelith<br />1 x Wanderer's Troupe<br />
             </td>
           </tr>
           <tr>
@@ -994,7 +994,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yelan</h3></th>
-      <th><h3 align="center">Rust</h3></th>
+      <th><h3 align="center">Favonius Warbow</h3></th>
     </tr>
     <tr>
       <td>
@@ -1007,7 +1007,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
           />
         </p>
       </td>
@@ -1051,7 +1051,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Rust</td>
+            <td>Favonius Warbow</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1059,11 +1059,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>4</td>
           </tr>
         </table>
       </td>
@@ -1200,8 +1200,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Gladiator's Finale<br />1 x Tenacity of the Millelith<br />1 x
-              Heart of Depth<br />1 x Wanderer's Troupe<br />
+              2 x Tenacity of the Millelith<br />2 x Heart of Depth<br />1 x
+              Noblesse Oblige<br />
             </td>
           </tr>
           <tr>
@@ -1443,8 +1443,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Emblem of Severed Fate<br />1 x Crimson Witch of Flames<br />1
-              x Noblesse Oblige<br />1 x Deepwood Memories<br />
+              2 x Emblem of Severed Fate<br />1 x Crimson Witch of Flames<br />1
+              x Deepwood Memories<br />
             </td>
           </tr>
           <tr>
@@ -1606,8 +1606,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Tenacity of the Millelith<br />2 x Wanderer's Troupe<br />1 x
-              Gilded Dreams<br />
+              1 x Gladiator's Finale<br />2 x Wanderer's Troupe<br />1 x
+              Tenacity of the Millelith<br />1 x Gilded Dreams<br />
             </td>
           </tr>
           <tr>
@@ -1809,7 +1809,7 @@
   <table>
     <tr>
       <th><h3 align="center">Gorou</h3></th>
-      <th><h3 align="center">Favonius Warbow</h3></th>
+      <th><h3 align="center">Rust</h3></th>
     </tr>
     <tr>
       <td>
@@ -1822,7 +1822,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"
           />
         </p>
       </td>
@@ -1867,7 +1867,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Favonius Warbow</td>
+            <td>Rust</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1875,11 +1875,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>4</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
