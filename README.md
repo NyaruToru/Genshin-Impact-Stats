@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 04, 2022 18:43 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 04, 2022 18:50 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -1200,7 +1200,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Tenacity of the Millelith<br />2 x Heart of Depth<br />1 x
+              2 x Tenacity of the Millelith<br />2 x Wanderer's Troupe<br />1 x
               Noblesse Oblige<br />
             </td>
           </tr>
@@ -1606,8 +1606,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Gladiator's Finale<br />2 x Wanderer's Troupe<br />1 x
-              Tenacity of the Millelith<br />1 x Gilded Dreams<br />
+              1 x Gladiator's Finale<br />2 x Heart of Depth<br />1 x Tenacity
+              of the Millelith<br />1 x Gilded Dreams<br />
             </td>
           </tr>
           <tr>
