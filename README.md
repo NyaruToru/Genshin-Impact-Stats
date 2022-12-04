@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 04, 2022 13:30 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 04, 2022 13:40 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,16 +312,6 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (6)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
@@ -331,7 +321,17 @@
         ,
         height="18"
       />
-      Jean (6)<br />
+      Jean (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
+        ,
+        height="18"
+      />
+      Albedo (6)<br />
     </td>
   </tr>
   <tr>
@@ -709,8 +709,9 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Blizzard Strayer<br />1 x Tenacity of the Millelith<br />2 x
-              Shimenawa's Reminiscence<br />1 x Gladiator's Finale<br />
+              1 x Blizzard Strayer<br />1 x Tenacity of the Millelith<br />1 x
+              Shimenawa's Reminiscence<br />1 x Gladiator's Finale<br />1 x Husk
+              of Opulent Dreams<br />
             </td>
           </tr>
           <tr>
@@ -748,7 +749,7 @@
   <table>
     <tr>
       <th><h3 align="center">Eula</h3></th>
-      <th><h3 align="center">Serpent Spine</h3></th>
+      <th><h3 align="center">Skyward Pride</h3></th>
     </tr>
     <tr>
       <td>
@@ -761,7 +762,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dvalin.png"
           />
         </p>
       </td>
@@ -805,11 +806,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Serpent Spine</td>
+            <td>Skyward Pride</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -993,7 +994,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yelan</h3></th>
-      <th><h3 align="center">Favonius Warbow</h3></th>
+      <th><h3 align="center">Rust</h3></th>
     </tr>
     <tr>
       <td>
@@ -1006,7 +1007,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"
           />
         </p>
       </td>
@@ -1050,7 +1051,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Favonius Warbow</td>
+            <td>Rust</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1058,11 +1059,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>4</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -1644,7 +1645,7 @@
   <table>
     <tr>
       <th><h3 align="center">Arataki Itto</h3></th>
-      <th><h3 align="center">Skyward Pride</h3></th>
+      <th><h3 align="center">Serpent Spine</h3></th>
     </tr>
     <tr>
       <td>
@@ -1657,7 +1658,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dvalin.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
           />
         </p>
       </td>
@@ -1701,11 +1702,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyward Pride</td>
+            <td>Serpent Spine</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1769,7 +1770,9 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>5 x Husk of Opulent Dreams<br /></td>
+            <td>
+              4 x Husk of Opulent Dreams<br />1 x Shimenawa's Reminiscence<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1806,7 +1809,7 @@
   <table>
     <tr>
       <th><h3 align="center">Gorou</h3></th>
-      <th><h3 align="center">Rust</h3></th>
+      <th><h3 align="center">Favonius Warbow</h3></th>
     </tr>
     <tr>
       <td>
@@ -1819,7 +1822,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
           />
         </p>
       </td>
@@ -1861,7 +1864,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Rust</td>
+            <td>Favonius Warbow</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1869,11 +1872,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>4</td>
           </tr>
         </table>
       </td>
