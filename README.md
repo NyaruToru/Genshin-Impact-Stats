@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 05, 2022 03:38 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 05, 2022 03:45 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,16 +312,6 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -331,7 +321,17 @@
         ,
         height="18"
       />
-      Yae Miko (9)<br />
+      Yae Miko (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (9)<br />
     </td>
   </tr>
   <tr>
@@ -371,11 +371,11 @@
     <td>จำนวนการใช้ท่าไม้ตาย</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Nahida (15)<br />
+      Raiden Shogun (15)<br />
     </td>
   </tr>
   <tr>
