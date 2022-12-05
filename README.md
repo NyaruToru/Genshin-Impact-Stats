@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 05, 2022 06:56 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 05, 2022 07:56 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td>จำนวนวันใช้งาน</td>
-    <td>581</td>
+    <td>582</td>
   </tr>
   <tr>
     <td>ตัวละคร</td>
@@ -322,16 +322,16 @@
         height="18"
       />
       Yelan (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br />
+      Kamisato Ayaka (9)<br />
     </td>
   </tr>
   <tr>
