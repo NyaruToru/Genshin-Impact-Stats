@@ -1,16 +1,16 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 05, 2022 22:56 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 05, 2022 23:14 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
 <table>
   <tr>
     <td>จำนวนรางวัล</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>รับล่าสุด</td>
-    <td>3 x Sweet Madame</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
