@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 06, 2022 08:17 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 06, 2022 09:27 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,26 +312,26 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
       Yae Miko (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Raiden Shogun (9)<br />
+      Kamisato Ayaka (9)<br />
     </td>
   </tr>
   <tr>
@@ -1201,8 +1201,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Tenacity of the Millelith<br />3 x Wanderer's Troupe<br />1 x
-              Noblesse Oblige<br />
+              2 x Tenacity of the Millelith<br />2 x Gilded Dreams<br />1 x
+              Wanderer's Troupe<br />
             </td>
           </tr>
           <tr>
@@ -1363,7 +1363,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
+            <td>1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1607,8 +1607,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Gladiator's Finale<br />2 x Heart of Depth<br />1 x Tenacity
-              of the Millelith<br />1 x Gilded Dreams<br />
+              1 x Gladiator's Finale<br />2 x Heart of Depth<br />1 x Noblesse
+              Oblige<br />1 x Wanderer's Troupe<br />
             </td>
           </tr>
           <tr>
@@ -1761,7 +1761,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2583,7 +2583,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Husk of Opulent Dreams<br /></td>
+            <td>4 x Deepwood Memories<br />1 x Bloodstained Chivalry<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2743,7 +2743,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Noblesse Oblige<br />1 x Bloodstained Chivalry<br /></td>
+            <td>4 x Noblesse Oblige<br />1 x Husk of Opulent Dreams<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3954,7 +3954,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Artifacts</td>
