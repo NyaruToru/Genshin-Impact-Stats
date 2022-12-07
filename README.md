@@ -1,16 +1,16 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 07, 2022 22:54 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 07, 2022 23:07 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
 <table>
   <tr>
     <td>จำนวนรางวัล</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>รับล่าสุด</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -331,7 +331,7 @@
         ,
         height="18"
       />
-      Yae Miko (9)<br />
+      Yae (9)<br />
     </td>
   </tr>
   <tr>
@@ -353,7 +353,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (104426)<br />
+      Shougun (104426)<br />
     </td>
   </tr>
   <tr>
@@ -386,7 +386,7 @@
         ,
         height="18"
       />
-      Yae Miko (105)<br />
+      Yae (105)<br />
     </td>
   </tr>
 </table>
