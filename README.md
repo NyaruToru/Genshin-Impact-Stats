@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 07, 2022 16:43 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 07, 2022 16:50 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -326,7 +326,7 @@
         ,
         height="18"
       />
-      Shougun (9)<br /><img
+      Raiden Shogun (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -353,7 +353,7 @@
         ,
         height="18"
       />
-      Shougun (104426)<br />
+      Raiden Shogun (104426)<br />
     </td>
   </tr>
   <tr>
@@ -386,7 +386,7 @@
         ,
         height="18"
       />
-      Yae (105)<br />
+      Yae Miko (105)<br />
     </td>
   </tr>
 </table>
