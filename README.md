@@ -1,16 +1,16 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 08, 2022 22:57 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 08, 2022 23:19 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
 <table>
   <tr>
     <td>จำนวนรางวัล</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>รับล่าสุด</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -316,7 +316,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (9)<br /><img
+      Shougun (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -331,7 +331,7 @@
         ,
         height="18"
       />
-      Yae Miko (9)<br />
+      Yae (9)<br />
     </td>
   </tr>
   <tr>
@@ -353,7 +353,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (104426)<br />
+      Shougun (104426)<br />
     </td>
   </tr>
   <tr>
@@ -375,7 +375,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (15)<br />
+      Shougun (15)<br />
     </td>
   </tr>
   <tr>
@@ -386,7 +386,7 @@
         ,
         height="18"
       />
-      Yae Miko (105)<br />
+      Yae (105)<br />
     </td>
   </tr>
 </table>
