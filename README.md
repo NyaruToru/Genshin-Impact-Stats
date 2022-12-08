@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 08, 2022 13:45 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 08, 2022 13:52 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -2452,6 +2452,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Tighnari</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Tighnari</h3></th>
+      <th><h3 align="center">Amos' Bow</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Dendro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>4 x Deepwood Memories<br />1 x Bloodstained Chivalry<br /></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Amos' Bow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Shikanoin Heizou</b></summary>
   <br />
   <table>
@@ -2528,86 +2608,6 @@
           <tr>
             <td>Refinement</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Tighnari</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Tighnari</h3></th>
-      <th><h3 align="center">Amos' Bow</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Dendro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>4 x Deepwood Memories<br />1 x Bloodstained Chivalry<br /></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Amos' Bow</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>2</td>
           </tr>
         </table>
       </td>
@@ -3065,7 +3065,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Artifacts</td>
