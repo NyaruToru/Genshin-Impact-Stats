@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 09, 2022 08:14 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 09, 2022 09:29 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,26 +312,26 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (9)<br />
+      Nahida (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (9)<br />
     </td>
   </tr>
   <tr>
@@ -371,11 +371,11 @@
     <td>จำนวนการใช้ท่าไม้ตาย</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Raiden Shogun (15)<br />
+      Nahida (15)<br />
     </td>
   </tr>
   <tr>
@@ -394,17 +394,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2967 (rate -54)</td>
+    <td>3007 (rate -54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1064399 (rate -81)</td>
+    <td>1090772 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1480 (50%)<br />Daily Activity: 450 (16%)<br />Spiral Abyss: 450
-      (15%)<br />Events: 420 (14%)<br />Quests: 120 (4%)<br />Adventure: 42
+      Mail: 1480 (50%)<br />Daily Activity: 490 (17%)<br />Spiral Abyss: 450
+      (15%)<br />Events: 420 (14%)<br />Quests: 120 (3%)<br />Adventure: 42
       (1%)<br />Other: 5 (0%)<br />
     </td>
   </tr>
@@ -1152,6 +1152,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Nahida</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Nahida</h3></th>
+      <th><h3 align="center">Sacrificial Fragments</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Dendro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>8</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>4 x Gilded Dreams<br />1 x Gladiator's Finale<br /></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Sacrificial Fragments</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Nilou</b></summary>
   <br />
   <table>
@@ -1228,86 +1308,6 @@
           <tr>
             <td>Refinement</td>
             <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Nahida</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Nahida</h3></th>
-      <th><h3 align="center">Sacrificial Fragments</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Dendro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>7</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>4 x Gilded Dreams<br />1 x Gladiator's Finale<br /></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Sacrificial Fragments</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
           </tr>
         </table>
       </td>
