@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 09, 2022 21:58 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 09, 2022 22:14 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td>Common Chest</td>
-    <td>1727</td>
+    <td>1729</td>
   </tr>
   <tr>
     <td>Exquisite Chest</td>
@@ -158,7 +158,7 @@
         <tr>
           <td>สำรวจแล้ว</td>
           <td>
-            <img src="https://progress-bar.dev/49/" width="80" />
+            <img src="https://progress-bar.dev/50/" width="80" />
           </td>
         </tr>
         <tr>
@@ -312,6 +312,16 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -321,17 +331,7 @@
         ,
         height="18"
       />
-      Nahida (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br />
+      Nahida (9)<br />
     </td>
   </tr>
   <tr>
@@ -371,11 +371,11 @@
     <td>จำนวนการใช้ท่าไม้ตาย</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Nahida (15)<br />
+      Raiden Shogun (15)<br />
     </td>
   </tr>
   <tr>
