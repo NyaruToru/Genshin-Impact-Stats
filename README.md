@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 10, 2022 08:05 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 10, 2022 09:18 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,6 +312,11 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -326,12 +331,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (9)<br />
+      Raiden Shogun (9)<br />
     </td>
   </tr>
   <tr>
@@ -394,17 +394,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3131 (rate -52)</td>
+    <td>3371 (rate -48)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1178792 (rate -79)</td>
+    <td>1205341 (rate -78)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1480 (48%)<br />Events: 540 (18%)<br />Daily Activity: 490 (16%)<br />Spiral
-      Abyss: 450 (14%)<br />Quests: 120 (3%)<br />Adventure: 46 (1%)<br />Other:
+      Mail: 1680 (50%)<br />Events: 540 (17%)<br />Daily Activity: 530 (16%)<br />Spiral
+      Abyss: 450 (13%)<br />Quests: 120 (3%)<br />Adventure: 46 (1%)<br />Other:
       5 (0%)<br />
     </td>
   </tr>
