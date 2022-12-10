@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 10, 2022 14:43 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 10, 2022 14:50 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -317,21 +317,21 @@
         height="18"
       />
       Nahida (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Yelan (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (9)<br /><img
+      Zhongli (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (9)<br />
+      Kamisato Ayaka (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (9)<br />
     </td>
   </tr>
   <tr>
