@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 10, 2022 20:57 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 10, 2022 21:11 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -1363,7 +1363,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Gladiator's Finale<br /></td>
+            <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2500,7 +2500,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Deepwood Memories<br />1 x Bloodstained Chivalry<br /></td>
+            <td>1 x Bloodstained Chivalry<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
