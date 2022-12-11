@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 11, 2022 06:58 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 11, 2022 08:18 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -461,8 +461,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Shimenawa's Reminiscence<br />2 x Noblesse Oblige<br />1 x
-              Gladiator's Finale<br />
+              2 x Shimenawa's Reminiscence<br />2 x Gladiator's Finale<br />1 x
+              Noblesse Oblige<br />
             </td>
           </tr>
           <tr>
@@ -544,8 +544,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x
-              Shimenawa's Reminiscence<br />
+              1 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x
+              Noblesse Oblige<br />1 x Shimenawa's Reminiscence<br />
             </td>
           </tr>
           <tr>
@@ -3390,7 +3390,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Constellation</td>
