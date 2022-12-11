@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 11, 2022 09:35 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 11, 2022 10:04 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -50,11 +50,11 @@
   </tr>
   <tr>
     <td>Common Chest</td>
-    <td>1729</td>
+    <td>1730</td>
   </tr>
   <tr>
     <td>Exquisite Chest</td>
-    <td>1201</td>
+    <td>1202</td>
   </tr>
   <tr>
     <td>Precious Chest</td>
@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td>จำนวนหีบสมบัติประหลาด</td>
-    <td>77</td>
+    <td>78</td>
   </tr>
   <tr>
     <td>ปลดล็อกดันเจี้ยน</td>
@@ -312,26 +312,26 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+      Raiden Shogun (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Nahida (9)<br />
+      Yelan (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (9)<br />
     </td>
   </tr>
   <tr>
