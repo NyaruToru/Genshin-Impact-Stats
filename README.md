@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 11, 2022 15:49 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 11, 2022 15:57 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -665,7 +665,7 @@
   <table>
     <tr>
       <th><h3 align="center">Hu Tao</h3></th>
-      <th><h3 align="center">Deathmatch</h3></th>
+      <th><h3 align="center">"The Catch"</h3></th>
     </tr>
     <tr>
       <td>
@@ -678,7 +678,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Mori.png"
           />
         </p>
       </td>
@@ -724,7 +724,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Deathmatch</td>
+            <td>"The Catch"</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -736,7 +736,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>3</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -832,7 +832,7 @@
   <table>
     <tr>
       <th><h3 align="center">Raiden Shogun</h3></th>
-      <th><h3 align="center">"The Catch"</h3></th>
+      <th><h3 align="center">Deathmatch</h3></th>
     </tr>
     <tr>
       <td>
@@ -845,7 +845,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Mori.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
           />
         </p>
       </td>
@@ -887,7 +887,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>"The Catch"</td>
+            <td>Deathmatch</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -899,7 +899,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>3</td>
           </tr>
         </table>
       </td>
@@ -956,8 +956,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Shimenawa's Reminiscence<br />2 x Gilded Dreams<br />1 x
-              Gladiator's Finale<br />
+              4 x Flower of Paradise Lost<br />1 x Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -2767,7 +2766,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -2824,8 +2823,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Ocean-Hued Clam<br />1 x Deepwood Memories<br />2 x Maiden
-              Beloved<br />
+              1 x Ocean-Hued Clam<br />1 x Gilded Dreams<br />1 x Deepwood
+              Memories<br />2 x Maiden Beloved<br />
             </td>
           </tr>
           <tr>
