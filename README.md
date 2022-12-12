@@ -1,16 +1,16 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 12, 2022 22:59 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 12, 2022 23:25 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
 <table>
   <tr>
     <td>จำนวนรางวัล</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>รับล่าสุด</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
