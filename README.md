@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 13, 2022 20:32 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 13, 2022 20:41 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -312,26 +312,26 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yae Miko (9)<br />
+      Raiden Shogun (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (9)<br />
     </td>
   </tr>
   <tr>
@@ -461,8 +461,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Shimenawa's Reminiscence<br />2 x Gladiator's Finale<br />1 x
-              Noblesse Oblige<br />
+              1 x Shimenawa's Reminiscence<br />1 x Flower of Paradise Lost<br />1
+              x Noblesse Oblige<br />1 x Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -544,8 +544,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x
-              Noblesse Oblige<br />1 x Shimenawa's Reminiscence<br />
+              2 x Viridescent Venerer<br />2 x Shimenawa's Reminiscence<br />1 x
+              Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -665,7 +665,7 @@
   <table>
     <tr>
       <th><h3 align="center">Hu Tao</h3></th>
-      <th><h3 align="center">"The Catch"</h3></th>
+      <th><h3 align="center">Dragon's Bane</h3></th>
     </tr>
     <tr>
       <td>
@@ -678,7 +678,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Mori.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
           />
         </p>
       </td>
@@ -709,9 +709,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Blizzard Strayer<br />1 x Deepwood Memories<br />1 x
-              Shimenawa's Reminiscence<br />1 x Gladiator's Finale<br />1 x Husk
-              of Opulent Dreams<br />
+              4 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -724,7 +722,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>"The Catch"</td>
+            <td>Dragon's Bane</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -732,11 +730,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -956,7 +954,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              4 x Flower of Paradise Lost<br />1 x Gladiator's Finale<br />
+              2 x Shimenawa's Reminiscence<br />2 x Gilded Dreams<br />1 x
+              Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -1443,7 +1442,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Emblem of Severed Fate<br />1 x Crimson Witch of Flames<br />1
+              1 x Emblem of Severed Fate<br />1 x Shimenawa's Reminiscence<br />1
               x Deepwood Memories<br />
             </td>
           </tr>
@@ -1525,7 +1524,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>2 x Noblesse Oblige<br /></td>
+            <td>5 x Noblesse Oblige<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2580,8 +2579,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />1 x
-              Shimenawa's Reminiscence<br />
+              1 x Blizzard Strayer<br />1 x Deepwood Memories<br />1 x
+              Gladiator's Finale<br />1 x Shimenawa's Reminiscence<br />
             </td>
           </tr>
           <tr>
@@ -2662,7 +2661,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Viridescent Venerer<br />3 x Blizzard Strayer<br /></td>
+            <td>1 x Gladiator's Finale<br />3 x Blizzard Strayer<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2742,7 +2741,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Noblesse Oblige<br />1 x Husk of Opulent Dreams<br /></td>
+            <td>1 x Husk of Opulent Dreams<br />2 x Noblesse Oblige<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
