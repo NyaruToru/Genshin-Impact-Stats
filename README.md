@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 16, 2022 02:51 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 16, 2022 02:58 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -327,11 +327,11 @@
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
