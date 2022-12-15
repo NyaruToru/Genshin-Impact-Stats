@@ -1,16 +1,16 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 15, 2022 22:57 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 15, 2022 23:18 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
 <table>
   <tr>
     <td>จำนวนรางวัล</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>รับล่าสุด</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
