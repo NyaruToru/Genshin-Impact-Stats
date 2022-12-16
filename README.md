@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 16, 2022 20:54 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 16, 2022 21:10 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -290,23 +290,23 @@
 <table>
   <tr>
     <td>ฤดูกาล</td>
-    <td>59</td>
+    <td>60</td>
   </tr>
   <tr>
     <td>การต่อสู้ทั้งหมด</td>
-    <td>12</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>ชนะทั้งหมด</td>
-    <td>12</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>ชั้นสูงสุด</td>
-    <td>12-3</td>
+    <td>9-3</td>
   </tr>
   <tr>
     <td>ดาว</td>
-    <td>31</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>จำนวนครั้งการเข้าต่อสู้</td>
@@ -316,33 +316,33 @@
         ,
         height="18"
       />
-      Zhongli (12)<br /><img
+      Zhongli (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (3)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br />
+      Raiden Shogun (3)<br />
     </td>
   </tr>
   <tr>
     <td>กำจัดศัตรูไปได้สูงสุด</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (41)<br />
+      Nahida (23)<br />
     </td>
   </tr>
   <tr>
@@ -353,29 +353,29 @@
         ,
         height="18"
       />
-      Raiden Shogun (104426)<br />
+      Raiden Shogun (78079)<br />
     </td>
   </tr>
   <tr>
     <td>ได้รับความเสียหายมากที่สุด</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Raiden Shogun (79115)<br />
+      Yae Miko (2038)<br />
     </td>
   </tr>
   <tr>
     <td>จำนวนการใช้ท่าไม้ตาย</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Raiden Shogun (28)<br />
+      Nahida (3)<br />
     </td>
   </tr>
   <tr>
@@ -386,7 +386,7 @@
         ,
         height="18"
       />
-      Yae Miko (198)<br />
+      Yae Miko (27)<br />
     </td>
   </tr>
 </table>
