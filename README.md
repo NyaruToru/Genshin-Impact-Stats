@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 16, 2022 19:19 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 16, 2022 19:47 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -461,8 +461,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Shimenawa's Reminiscence<br />1 x Flower of Paradise Lost<br />1
-              x Noblesse Oblige<br />1 x Gladiator's Finale<br />
+              2 x Noblesse Oblige<br />1 x Thundersoother<br />2 x Gladiator's
+              Finale<br />
             </td>
           </tr>
           <tr>
@@ -544,8 +544,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Viridescent Venerer<br />2 x Shimenawa's Reminiscence<br />1 x
-              Gladiator's Finale<br />
+              2 x Viridescent Venerer<br />2 x Shimenawa's Reminiscence<br />
             </td>
           </tr>
           <tr>
@@ -1524,7 +1523,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>5 x Noblesse Oblige<br /></td>
+            <td>1 x Gladiator's Finale<br />4 x Noblesse Oblige<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2661,7 +2660,9 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Gladiator's Finale<br />3 x Blizzard Strayer<br /></td>
+            <td>
+              1 x Shimenawa's Reminiscence<br />3 x Blizzard Strayer<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
