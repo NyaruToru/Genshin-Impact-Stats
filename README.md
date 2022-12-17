@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 18, 2022 05:53 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 18, 2022 06:10 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>ความสำเร็จ</td>
-    <td>650</td>
+    <td>655</td>
   </tr>
   <tr>
     <td>จำนวนวันใช้งาน</td>
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>133</td>
+    <td>134</td>
   </tr>
   <tr>
     <td>Electroculus</td>
@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td>Precious Chest</td>
-    <td>343</td>
+    <td>344</td>
   </tr>
   <tr>
     <td>Luxurious Chest</td>
