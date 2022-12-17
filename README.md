@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 17, 2022 16:44 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 17, 2022 16:54 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -371,11 +371,11 @@
     <td>จำนวนการใช้ท่าไม้ตาย</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Yae Miko (3)<br />
+      Nahida (3)<br />
     </td>
   </tr>
   <tr>
