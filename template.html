@@ -1,20 +1,20 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>{{ updated_at }}</u></h3>
+<h3 align="center">🕒 Updated at <u>{{ updated_at }}</u> (🤖automated)</h3>
 <br>
 
-<h2>รางวัลรายวัน</h2>
+<h2>Daily Rewards</h2>
 <table>
     <tr>
-        <td>จำนวนรางวัล</td>
+        <td>Total Rewards Claimed</td>
         <td>{{ reward_info.claimed_rewards }}</td>
     </tr>
     <tr>
-        <td>รับล่าสุด</td>
+        <td>Last Claimed Reward</td>
         <td>{{ reward.amount }} x {{ reward.name }}</td>
     </tr>
 </table>
 
-<h2>สถิติ</h2>
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.png", height="20"> Stats</h2>
 <table>
     {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
     <tr>
@@ -24,7 +24,7 @@
     {%- endfor -%}
 </table>
 
-<h2>สำรวจ</h2>
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.png", height="20"> Exploration</h2>
 <table>
     <tr>
         {%- for exploration in user.explorations -%}
@@ -43,7 +43,7 @@
         <td>
             <table>
                 <tr>
-                    <td>สำรวจแล้ว</td>
+                    <td>Explored</td>
                     <td>
                         <img
                         src="https://progress-bar.dev/{{ _int(exploration.explored) }}/"
@@ -61,10 +61,10 @@
 </table>
 
 {%- if user.teapot -%}
-<h2>Teapot</h2>
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.png", height="20"> Teapot</h2>
 <table>
     <tr>
-        <td>เลเวล</td>
+        <td>Level</td>
         <td>{{ user.teapot.level }}</td>
     </tr>
     <tr>
@@ -76,33 +76,33 @@
         <td>{{ user.teapot.items }}</td>
     </tr>
     <tr>
-        <td>ผู้เยียมชม</td>
+        <td>Visitors</td>
         <td>{{ user.teapot.visitors }}</td>
     </tr>
 </table>
 {%- endif -%}
 
 {%- if abyss.floors|length -%}
-<h2>Spiral Abyss</h2>
+<h2><img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"> Spiral Abyss</h2>
 <table>
     <tr>
-        <td>ฤดูกาล</td>
+        <td>Season</td>
         <td>{{ abyss.season }}</td>
     </tr>
     <tr>
-        <td>การต่อสู้ทั้งหมด</td>
+        <td>Total Battles</td>
         <td>{{ abyss.total_battles }}</td>
     </tr>
     <tr>
-        <td>ชนะทั้งหมด</td>
+        <td>Total Wins</td>
         <td>{{ abyss.total_wins }}</td>
     </tr>
     <tr>
-        <td>ชั้นสูงสุด</td>
+        <td>Max Floor</td>
         <td>{{ abyss.max_floor }}</td>
     </tr>
     <tr>
-        <td>ดาว</td>
+        <td>Total Stars</td>
         <td>{{ abyss.total_stars }}</td>
     </tr>
     {%- for field, characters in abyss.ranks.as_dict(lang=lang).items() -%}
@@ -118,14 +118,14 @@
 </table>
 {%- endif -%}
 
-<h2>Diary</h2>
+<h2><img src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.png" height="20"> Diary</h2>
 <table>
     <tr>
-        <td>Primogems earned</td>
+        <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png", height="18"> Primogems earned</td>
         <td>{{ diary.data.current_primogems }} (rate {{ diary.data.primogems_rate }})</td>
     </tr>
     <tr>
-        <td>Mora earned</td>
+        <td><img src="https://genshin.honeyhunterworld.com/img/i_2001_35.png", height="18"> Mora earned</td>
         <td>{{ diary.data.current_mora }} (rate {{ diary.data.mora_rate }})</td>
     </tr>
     <tr>
@@ -138,7 +138,7 @@
     </tr>
 </table>
 
-<h2>Characters</h2>
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.png", height="20"> Characters</h2>
 {%- for character in user.characters -%}
     {%- if user.characters.index(character) == 0 -%}
         <details open>
@@ -166,11 +166,11 @@
                 <table>
                     <tr>
                         <td>Rarity</td>
-                        <td>{{ character.rarity }}</td>
+                        <td>{{ "★" * character.rarity }}</td>
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td>{{ character.element }}</td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/{{ character.element.lower() }}_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -185,11 +185,15 @@
                         <td>{{ character.constellation }}</td>
                     </tr>
                     <tr>
-                        <td>Artifacts</td>
+                        <td>Artifacts<br>
+                        {%- set sets = character.artifacts|map(attribute="set")|map(attribute="name")|list -%}
+                        {%- for name in sets|unique -%}
+                        {{ sets.count(name) }} x {{ name }}<br>
+                        {%- endfor -%}
+                        </td>
                         <td>
-                            {%- set sets = character.artifacts|map(attribute="set")|map(attribute="name")|list -%}
-                            {%- for name in sets|unique -%}
-                            {{ sets.count(name) }} x {{ name }}<br>
+                            {%- for artifact in character.artifacts -%}
+                            <img src="{{ artifact.icon }}", height="18"> {{ artifact.name }}<br>
                             {%- endfor -%}
                         </td>
                     </tr>
@@ -207,7 +211,7 @@
                     </tr>
                     <tr>
                         <td>Rarity</td>
-                        <td>{{ character.weapon.rarity }}</td>
+                        <td>{{ "★" * character.weapon.rarity }}</td>
                     </tr>
                     <tr>
                         <td>Level</td>
