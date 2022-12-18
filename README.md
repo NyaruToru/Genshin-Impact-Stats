@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 18, 2022 16:34 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 18, 2022 16:44 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -664,7 +664,7 @@
   <table>
     <tr>
       <th><h3 align="center">Hu Tao</h3></th>
-      <th><h3 align="center">Dragon's Bane</h3></th>
+      <th><h3 align="center">Deathmatch</h3></th>
     </tr>
     <tr>
       <td>
@@ -677,7 +677,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
           />
         </p>
       </td>
@@ -721,7 +721,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Dragon's Bane</td>
+            <td>Deathmatch</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -729,11 +729,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>3</td>
           </tr>
         </table>
       </td>
