@@ -18,11 +18,11 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-t", "--template", default="template.html", type=pathlib.Path)
 parser.add_argument("-o", "--output", default="stats.html", type=pathlib.Path)
 parser.add_argument("-c", "--cookies", default=None)
-parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="th-th")
+parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
 
 
 def format_date(date: "datetime"):
-    tz = pytz.timezone("Asia/Bangkok")
+    tz = pytz.timezone("Asia/Jakarta")
     now = date.now(tz=tz)
     fmt = f"{now.strftime('%b')} \
             {now.strftime('%d')}, \
