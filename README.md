@@ -1,43 +1,52 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 18, 2022 17:44 +0700</u></h3>
+<h3 align="center">
+  🕒 Updated at <u>Dec 19, 2022 01:38 +0700</u> (🤖automated)
+</h3>
 <br />
 
-<h2>รางวัลรายวัน</h2>
+<h2>Daily Rewards</h2>
 <table>
   <tr>
-    <td>จำนวนรางวัล</td>
-    <td>18</td>
+    <td>Total Rewards Claimed</td>
+    <td>19</td>
   </tr>
   <tr>
-    <td>รับล่าสุด</td>
-    <td>20 x Primogem</td>
+    <td>Last Claimed Reward</td>
+    <td>3 x Fisherman's Toast</td>
   </tr>
 </table>
 
-<h2>สถิติ</h2>
+<h2>
+  <img
+    src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.png"
+    ,
+    height="20"
+  />
+  Stats
+</h2>
 <table>
   <tr>
-    <td>ความสำเร็จ</td>
+    <td>Achievements</td>
     <td>662</td>
   </tr>
   <tr>
-    <td>จำนวนวันใช้งาน</td>
+    <td>Days Active</td>
     <td>595</td>
   </tr>
   <tr>
-    <td>ตัวละคร</td>
+    <td>Characters</td>
     <td>45</td>
   </tr>
   <tr>
-    <td>ปลดล็อกจุดเทเลพอร์ต</td>
+    <td>Waypoints Unlocked</td>
     <td>243</td>
   </tr>
   <tr>
-    <td>Anemoculus</td>
+    <td>Anemoculi</td>
     <td>66</td>
   </tr>
   <tr>
-    <td>Geoculus</td>
+    <td>Geoculi</td>
     <td>131</td>
   </tr>
   <tr>
@@ -45,41 +54,48 @@
     <td>135</td>
   </tr>
   <tr>
-    <td>Electroculus</td>
+    <td>Electroculi</td>
     <td>181</td>
   </tr>
   <tr>
-    <td>Common Chest</td>
+    <td>Common Chests Opened</td>
     <td>1744</td>
   </tr>
   <tr>
-    <td>Exquisite Chest</td>
+    <td>Exquisite Chests Opened</td>
     <td>1208</td>
   </tr>
   <tr>
-    <td>Precious Chest</td>
+    <td>Precious Chests Opened</td>
     <td>344</td>
   </tr>
   <tr>
-    <td>Luxurious Chest</td>
+    <td>Luxurious Chests Opened</td>
     <td>142</td>
   </tr>
   <tr>
-    <td>จำนวนหีบสมบัติประหลาด</td>
+    <td>Remarkable Chests Opened</td>
     <td>86</td>
   </tr>
   <tr>
-    <td>ปลดล็อกดันเจี้ยน</td>
+    <td>Domains Unlocked</td>
     <td>42</td>
   </tr>
 </table>
 
-<h2>สำรวจ</h2>
+<h2>
+  <img
+    src="https://genshin.honeyhunterworld.com/img/icons/map_35.png"
+    ,
+    height="20"
+  />
+  Exploration
+</h2>
 <table>
   <tr>
     <th>Sumeru</th>
     <th>The Chasm: Underground Mines</th>
-    <th>Chasm</th>
+    <th>The Chasm</th>
     <th>Enkanomiya</th>
     <th>Inazuma</th>
     <th>Dragonspine</th>
@@ -156,7 +172,7 @@
     <td>
       <table>
         <tr>
-          <td>สำรวจแล้ว</td>
+          <td>Explored</td>
           <td>
             <img src="https://progress-bar.dev/51/" width="80" />
           </td>
@@ -170,7 +186,7 @@
     <td>
       <table>
         <tr>
-          <td>สำรวจแล้ว</td>
+          <td>Explored</td>
           <td>
             <img src="https://progress-bar.dev/100/" width="80" />
           </td>
@@ -184,7 +200,7 @@
     <td>
       <table>
         <tr>
-          <td>สำรวจแล้ว</td>
+          <td>Explored</td>
           <td>
             <img src="https://progress-bar.dev/100/" width="80" />
           </td>
@@ -198,7 +214,7 @@
     <td>
       <table>
         <tr>
-          <td>สำรวจแล้ว</td>
+          <td>Explored</td>
           <td>
             <img src="https://progress-bar.dev/93/" width="80" />
           </td>
@@ -212,7 +228,7 @@
     <td>
       <table>
         <tr>
-          <td>สำรวจแล้ว</td>
+          <td>Explored</td>
           <td>
             <img src="https://progress-bar.dev/100/" width="80" />
           </td>
@@ -226,7 +242,7 @@
     <td>
       <table>
         <tr>
-          <td>สำรวจแล้ว</td>
+          <td>Explored</td>
           <td>
             <img src="https://progress-bar.dev/100/" width="80" />
           </td>
@@ -240,7 +256,7 @@
     <td>
       <table>
         <tr>
-          <td>สำรวจแล้ว</td>
+          <td>Explored</td>
           <td>
             <img src="https://progress-bar.dev/93/" width="80" />
           </td>
@@ -254,7 +270,7 @@
     <td>
       <table>
         <tr>
-          <td>สำรวจแล้ว</td>
+          <td>Explored</td>
           <td>
             <img src="https://progress-bar.dev/100/" width="80" />
           </td>
@@ -267,75 +283,89 @@
     </td>
   </tr>
 </table>
-<h2>Teapot</h2>
+<h2>
+  <img
+    src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.png"
+    ,
+    height="20"
+  />
+  Teapot
+</h2>
 <table>
   <tr>
-    <td>เลเวล</td>
+    <td>Level</td>
     <td>10</td>
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>หอไม้แกะสลัก (12350)</td>
+    <td>Stately (12350)</td>
   </tr>
   <tr>
     <td>Items</td>
     <td>838</td>
   </tr>
   <tr>
-    <td>ผู้เยียมชม</td>
+    <td>Visitors</td>
     <td>6</td>
   </tr>
 </table>
-<h2>Spiral Abyss</h2>
+<h2>
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+  Spiral Abyss
+</h2>
 <table>
   <tr>
-    <td>ฤดูกาล</td>
+    <td>Season</td>
     <td>60</td>
   </tr>
   <tr>
-    <td>การต่อสู้ทั้งหมด</td>
-    <td>6</td>
+    <td>Total Battles</td>
+    <td>14</td>
   </tr>
   <tr>
-    <td>ชนะทั้งหมด</td>
-    <td>6</td>
+    <td>Total Wins</td>
+    <td>9</td>
   </tr>
   <tr>
-    <td>ชั้นสูงสุด</td>
-    <td>10-3</td>
+    <td>Max Floor</td>
+    <td>11-3</td>
   </tr>
   <tr>
-    <td>ดาว</td>
-    <td>18</td>
+    <td>Total Stars</td>
+    <td>27</td>
   </tr>
   <tr>
-    <td>จำนวนครั้งการเข้าต่อสู้</td>
+    <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
-        ,
-        height="18"
-      />
-      Albedo (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
       Yae Miko (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Zhongli (9)<br />
+      Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (9)<br />
     </td>
   </tr>
   <tr>
-    <td>กำจัดศัตรูไปได้สูงสุด</td>
+    <td>Most Defeats</td>
     <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
@@ -346,7 +376,7 @@
     </td>
   </tr>
   <tr>
-    <td>โจมตีแรงสุด</td>
+    <td>Strongest Single Strike</td>
     <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
@@ -357,7 +387,7 @@
     </td>
   </tr>
   <tr>
-    <td>ได้รับความเสียหายมากที่สุด</td>
+    <td>Most Damage Taken</td>
     <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
@@ -368,18 +398,18 @@
     </td>
   </tr>
   <tr>
-    <td>จำนวนการใช้ท่าไม้ตาย</td>
+    <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Yae Miko (14)<br />
+      Nahida (14)<br />
     </td>
   </tr>
   <tr>
-    <td>จำนวนการใช้สกิลธาตุ</td>
+    <td>Elemental Skills Cast</td>
     <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
@@ -390,27 +420,54 @@
     </td>
   </tr>
 </table>
-<h2>Diary</h2>
+<h2>
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.png"
+    height="20"
+  />
+  Diary
+</h2>
 <table>
   <tr>
-    <td>Primogems earned</td>
-    <td>5734 (rate -12)</td>
+    <td>
+      <img
+        src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png"
+        ,
+        height="18"
+      />
+      Primogems earned
+    </td>
+    <td>5884 (rate -10)</td>
   </tr>
   <tr>
-    <td>Mora earned</td>
-    <td>2828657 (rate -50)</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/i_2001_35.png"
+        ,
+        height="18"
+      />
+      Mora earned
+    </td>
+    <td>2978657 (rate -47)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2320 (41%)<br />Daily Activity: 970 (17%)<br />Events: 960 (17%)<br />Spiral
-      Abyss: 800 (14%)<br />Quests: 380 (6%)<br />Adventure: 239 (4%)<br />Other:
+      Mail: 2320 (40%)<br />Daily Activity: 970 (17%)<br />Events: 960 (16%)<br />Spiral
+      Abyss: 950 (16%)<br />Quests: 380 (6%)<br />Adventure: 239 (4%)<br />Other:
       65 (1%)<br />
     </td>
   </tr>
 </table>
 
-<h2>Characters</h2>
+<h2>
+  <img
+    src="https://genshin.honeyhunterworld.com/img/icons/char_35.png"
+    ,
+    height="20"
+  />
+  Characters
+</h2>
 <details open>
   <summary><b>Kamisato Ayaka</b></summary>
   <br />
@@ -440,11 +497,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Cryo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -459,10 +522,37 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              2 x Noblesse Oblige<br />1 x Thundersoother<br />2 x Gladiator's
-              Finale<br />
+              Artifacts<br />2 x Noblesse Oblige<br />1 x Thundersoother<br />2
+              x Gladiator's Finale<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_4.png"
+                ,
+                height="18"
+              />
+              Royal Flora<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14002_2.png"
+                ,
+                height="18"
+              />
+              Thundersoother's Plume<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
+                ,
+                height="18"
+              />
+              Gladiator's Longing<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_1.png"
+                ,
+                height="18"
+              />
+              Royal Silver Urn<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_3.png"
+                ,
+                height="18"
+              />
+              Gladiator's Triumphus<br />
             </td>
           </tr>
           <tr>
@@ -479,7 +569,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -523,11 +613,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Anemo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -542,14 +638,37 @@
             <td>2</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              2 x Viridescent Venerer<br />2 x Shimenawa's Reminiscence<br />
+              Artifacts<br />2 x Viridescent Venerer<br />2 x Shimenawa's
+              Reminiscence<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_4.png"
+                ,
+                height="18"
+              />
+              In Remembrance of Viridescent Fields<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png"
+                ,
+                height="18"
+              />
+              Shaft of Remembrance<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png"
+                ,
+                height="18"
+              />
+              Viridescent Venerer's Vessel<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
+                ,
+                height="18"
+              />
+              Capricious Visage<br />
             </td>
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>ความฝันในสายลมแห่งท้องทะเล, มรดกแห่ง Gunnhildr</td>
+            <td>Sea Breeze Dandelion, Gunnhildr's Legacy</td>
           </tr>
         </table>
       </td>
@@ -561,7 +680,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -605,11 +724,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Geo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -624,9 +749,37 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              4 x Tenacity of the Millelith<br />1 x Emblem of Severed Fate<br />
+              Artifacts<br />4 x Tenacity of the Millelith<br />1 x Emblem of
+              Severed Fate<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_4.png"
+                ,
+                height="18"
+              />
+              Flower of Accolades<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_2.png"
+                ,
+                height="18"
+              />
+              Ceremonial War-Plume<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_5.png"
+                ,
+                height="18"
+              />
+              Orichalceous Time-Dial<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_1.png"
+                ,
+                height="18"
+              />
+              Scarlet Vessel<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_3.png"
+                ,
+                height="18"
+              />
+              General's Ancient Helm<br />
             </td>
           </tr>
           <tr>
@@ -643,7 +796,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>3</td>
+            <td>★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -687,11 +840,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Pyro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -706,9 +865,37 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              4 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />
+              Artifacts<br />4 x Crimson Witch of Flames<br />1 x Gladiator's
+              Finale<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15006_4.png"
+                ,
+                height="18"
+              />
+              Witch's Flower of Blaze<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15006_2.png"
+                ,
+                height="18"
+              />
+              Witch's Ever-Burning Plume<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15006_5.png"
+                ,
+                height="18"
+              />
+              Witch's End Time<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_1.png"
+                ,
+                height="18"
+              />
+              Gladiator's Intoxication<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15006_3.png"
+                ,
+                height="18"
+              />
+              Witch's Scorching Hat<br />
             </td>
           </tr>
           <tr>
@@ -725,7 +912,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -769,11 +956,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Cryo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -788,10 +981,37 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              2 x Pale Flame<br />1 x Noblesse Oblige<br />2 x Bloodstained
-              Chivalry<br />
+              Artifacts<br />2 x Pale Flame<br />1 x Noblesse Oblige<br />2 x
+              Bloodstained Chivalry<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_4.png"
+                ,
+                height="18"
+              />
+              Stainless Bloom<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_2.png"
+                ,
+                height="18"
+              />
+              Wise Doctor's Pinion<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_5.png"
+                ,
+                height="18"
+              />
+              Royal Pocket Watch<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15008_1.png"
+                ,
+                height="18"
+              />
+              Bloodstained Chevalier's Goblet<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15008_3.png"
+                ,
+                height="18"
+              />
+              Bloodstained Iron Mask<br />
             </td>
           </tr>
           <tr>
@@ -808,7 +1028,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -852,11 +1072,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Electro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -871,8 +1097,35 @@
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>5 x Emblem of Severed Fate<br /></td>
+            <td>Artifacts<br />5 x Emblem of Severed Fate<br /></td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_4.png"
+                ,
+                height="18"
+              />
+              Magnificent Tsuba<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_2.png"
+                ,
+                height="18"
+              />
+              Sundered Feather<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_5.png"
+                ,
+                height="18"
+              />
+              Storm Cage<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_1.png"
+                ,
+                height="18"
+              />
+              Scarlet Vessel<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_3.png"
+                ,
+                height="18"
+              />
+              Ornate Kabuto<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -888,7 +1141,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -932,11 +1185,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Electro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -951,10 +1210,37 @@
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              2 x Shimenawa's Reminiscence<br />2 x Gilded Dreams<br />1 x
-              Gladiator's Finale<br />
+              Artifacts<br />2 x Shimenawa's Reminiscence<br />2 x Gilded
+              Dreams<br />1 x Gladiator's Finale<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_4.png"
+                ,
+                height="18"
+              />
+              Entangling Bloom<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png"
+                ,
+                height="18"
+              />
+              Shaft of Remembrance<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_5.png"
+                ,
+                height="18"
+              />
+              The Sunken Years<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_1.png"
+                ,
+                height="18"
+              />
+              Gladiator's Intoxication<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_3.png"
+                ,
+                height="18"
+              />
+              Shadow of the Sand King<br />
             </td>
           </tr>
           <tr>
@@ -971,7 +1257,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1015,11 +1301,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Hydro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1034,9 +1326,37 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              4 x Emblem of Severed Fate<br />1 x Shimenawa's Reminiscence<br />
+              Artifacts<br />4 x Emblem of Severed Fate<br />1 x Shimenawa's
+              Reminiscence<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_4.png"
+                ,
+                height="18"
+              />
+              Magnificent Tsuba<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_2.png"
+                ,
+                height="18"
+              />
+              Sundered Feather<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_5.png"
+                ,
+                height="18"
+              />
+              Storm Cage<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_1.png"
+                ,
+                height="18"
+              />
+              Hopeful Heart<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_3.png"
+                ,
+                height="18"
+              />
+              Ornate Kabuto<br />
             </td>
           </tr>
           <tr>
@@ -1053,7 +1373,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1097,11 +1417,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Geo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1116,12 +1442,31 @@
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>2 x Archaic Petra<br />1 x Noblesse Oblige<br /></td>
+            <td>
+              Artifacts<br />2 x Archaic Petra<br />1 x Noblesse Oblige<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15014_4.png"
+                ,
+                height="18"
+              />
+              Flower of Creviced Cliff<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15014_2.png"
+                ,
+                height="18"
+              />
+              Feather of Jagged Peaks<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_1.png"
+                ,
+                height="18"
+              />
+              Royal Silver Urn<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>กล้วยไม้อนธการ</td>
+            <td>Orchid's Evening Gown</td>
           </tr>
         </table>
       </td>
@@ -1133,7 +1478,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1177,11 +1522,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Hydro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1196,10 +1547,37 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              2 x Tenacity of the Millelith<br />2 x Gilded Dreams<br />1 x
-              Wanderer's Troupe<br />
+              Artifacts<br />2 x Tenacity of the Millelith<br />2 x Gilded
+              Dreams<br />1 x Wanderer's Troupe<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_4.png"
+                ,
+                height="18"
+              />
+              Flower of Accolades<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_2.png"
+                ,
+                height="18"
+              />
+              Feather of Judgment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_5.png"
+                ,
+                height="18"
+              />
+              Concert's Final Hour<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_1.png"
+                ,
+                height="18"
+              />
+              Noble's Pledging Vessel<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_3.png"
+                ,
+                height="18"
+              />
+              Shadow of the Sand King<br />
             </td>
           </tr>
           <tr>
@@ -1216,7 +1594,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1260,11 +1638,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Dendro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1279,8 +1663,37 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>4 x Gilded Dreams<br />1 x Gladiator's Finale<br /></td>
+            <td>
+              Artifacts<br />4 x Gilded Dreams<br />1 x Gladiator's Finale<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
+                ,
+                height="18"
+              />
+              Dreaming Steelbloom<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_2.png"
+                ,
+                height="18"
+              />
+              Feather of Judgment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
+                ,
+                height="18"
+              />
+              Gladiator's Longing<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_1.png"
+                ,
+                height="18"
+              />
+              Honeyed Final Feast<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_3.png"
+                ,
+                height="18"
+              />
+              Shadow of the Sand King<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1296,7 +1709,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1312,11 +1725,11 @@
   </table>
 </details>
 <details>
-  <summary><b>นักเดินทาง</b></summary>
+  <summary><b>Traveler</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">นักเดินทาง</h3></th>
+      <th><h3 align="center">Traveler</h3></th>
       <th><h3 align="center">Favonius Sword</h3></th>
     </tr>
     <tr>
@@ -1340,11 +1753,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Anemo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1359,8 +1778,38 @@
             <td>5</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
+            <td>
+              Artifacts<br />4 x Deepwood Memories<br />1 x Gladiator's
+              Finale<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_4.png"
+                ,
+                height="18"
+              />
+              Labyrinth Wayfarer<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_2.png"
+                ,
+                height="18"
+              />
+              Scholar of Vines<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
+                ,
+                height="18"
+              />
+              Gladiator's Longing<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_1.png"
+                ,
+                height="18"
+              />
+              Lamp of the Lost<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_3.png"
+                ,
+                height="18"
+              />
+              Laurel Coronet<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1376,7 +1825,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1420,11 +1869,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Hydro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1439,10 +1894,27 @@
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              1 x Emblem of Severed Fate<br />1 x Shimenawa's Reminiscence<br />1
-              x Deepwood Memories<br />
+              Artifacts<br />1 x Emblem of Severed Fate<br />1 x Shimenawa's
+              Reminiscence<br />1 x Deepwood Memories<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_4.png"
+                ,
+                height="18"
+              />
+              Magnificent Tsuba<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
+                ,
+                height="18"
+              />
+              Morning Dew's Moment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_3.png"
+                ,
+                height="18"
+              />
+              Laurel Coronet<br />
             </td>
           </tr>
           <tr>
@@ -1459,7 +1931,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1503,11 +1975,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Pyro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1522,8 +2000,37 @@
             <td>5</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>1 x Gladiator's Finale<br />4 x Noblesse Oblige<br /></td>
+            <td>
+              Artifacts<br />1 x Gladiator's Finale<br />4 x Noblesse Oblige<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_4.png"
+                ,
+                height="18"
+              />
+              Gladiator's Nostalgia<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_2.png"
+                ,
+                height="18"
+              />
+              Royal Plume<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_5.png"
+                ,
+                height="18"
+              />
+              Royal Pocket Watch<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_1.png"
+                ,
+                height="18"
+              />
+              Royal Silver Urn<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_3.png"
+                ,
+                height="18"
+              />
+              Royal Masque<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1539,7 +2046,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1583,11 +2090,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Cryo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1602,10 +2115,37 @@
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              1 x Gladiator's Finale<br />2 x Heart of Depth<br />1 x Noblesse
-              Oblige<br />1 x Wanderer's Troupe<br />
+              Artifacts<br />1 x Gladiator's Finale<br />2 x Heart of Depth<br />1
+              x Noblesse Oblige<br />1 x Wanderer's Troupe<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_4.png"
+                ,
+                height="18"
+              />
+              Gladiator's Nostalgia<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_2.png"
+                ,
+                height="18"
+              />
+              Gust of Nostalgia<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_5.png"
+                ,
+                height="18"
+              />
+              Copper Compass<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_1.png"
+                ,
+                height="18"
+              />
+              Royal Silver Urn<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_3.png"
+                ,
+                height="18"
+              />
+              Conductor's Top Hat<br />
             </td>
           </tr>
           <tr>
@@ -1622,7 +2162,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1666,11 +2206,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Geo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1685,8 +2231,38 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>4 x Husk of Opulent Dreams<br />1 x Wanderer's Troupe<br /></td>
+            <td>
+              Artifacts<br />4 x Husk of Opulent Dreams<br />1 x Wanderer's
+              Troupe<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_4.png"
+                ,
+                height="18"
+              />
+              Bloom Times<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_2.png"
+                ,
+                height="18"
+              />
+              Plume of Luxury<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_5.png"
+                ,
+                height="18"
+              />
+              Song of Life<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_1.png"
+                ,
+                height="18"
+              />
+              Calabash of Awakening<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_3.png"
+                ,
+                height="18"
+              />
+              Conductor's Top Hat<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1702,7 +2278,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1746,11 +2322,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Geo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1765,9 +2347,37 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              4 x Husk of Opulent Dreams<br />1 x Shimenawa's Reminiscence<br />
+              Artifacts<br />4 x Husk of Opulent Dreams<br />1 x Shimenawa's
+              Reminiscence<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_4.png"
+                ,
+                height="18"
+              />
+              Bloom Times<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_2.png"
+                ,
+                height="18"
+              />
+              Plume of Luxury<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
+                ,
+                height="18"
+              />
+              Morning Dew's Moment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_1.png"
+                ,
+                height="18"
+              />
+              Calabash of Awakening<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_3.png"
+                ,
+                height="18"
+              />
+              Skeletal Hat<br />
             </td>
           </tr>
           <tr>
@@ -1784,7 +2394,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1828,11 +2438,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Geo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1847,10 +2463,37 @@
             <td>2</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              2 x Husk of Opulent Dreams<br />2 x Emblem of Severed Fate<br />1
-              x Gilded Dreams<br />
+              Artifacts<br />2 x Husk of Opulent Dreams<br />2 x Emblem of
+              Severed Fate<br />1 x Gilded Dreams<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_4.png"
+                ,
+                height="18"
+              />
+              Bloom Times<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_2.png"
+                ,
+                height="18"
+              />
+              Plume of Luxury<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_5.png"
+                ,
+                height="18"
+              />
+              Storm Cage<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_1.png"
+                ,
+                height="18"
+              />
+              Honeyed Final Feast<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_3.png"
+                ,
+                height="18"
+              />
+              Ornate Kabuto<br />
             </td>
           </tr>
           <tr>
@@ -1867,7 +2510,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1911,11 +2554,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Electro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1930,10 +2579,38 @@
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              2 x Thundering Fury<br />1 x Bloodstained Chivalry<br />1 x
-              Wanderer's Troupe<br />1 x Husk of Opulent Dreams<br />
+              Artifacts<br />2 x Thundering Fury<br />1 x Bloodstained
+              Chivalry<br />1 x Wanderer's Troupe<br />1 x Husk of Opulent
+              Dreams<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15005_4.png"
+                ,
+                height="18"
+              />
+              Thunderbird's Mercy<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15005_2.png"
+                ,
+                height="18"
+              />
+              Survivor of Catastrophe<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15008_5.png"
+                ,
+                height="18"
+              />
+              Bloodstained Final Hour<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_1.png"
+                ,
+                height="18"
+              />
+              Wanderer's String-Kettle<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_3.png"
+                ,
+                height="18"
+              />
+              Skeletal Hat<br />
             </td>
           </tr>
           <tr>
@@ -1950,7 +2627,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1994,11 +2671,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Anemo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2013,8 +2696,33 @@
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>1 x Wanderer's Troupe<br />3 x Viridescent Venerer<br /></td>
+            <td>
+              Artifacts<br />1 x Wanderer's Troupe<br />3 x Viridescent
+              Venerer<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_4.png"
+                ,
+                height="18"
+              />
+              Troupe's Dawnlight<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_2.png"
+                ,
+                height="18"
+              />
+              Viridescent Arrow Feather<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png"
+                ,
+                height="18"
+              />
+              Viridescent Venerer's Vessel<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_3.png"
+                ,
+                height="18"
+              />
+              Viridescent Venerer's Diadem<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2030,7 +2738,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2074,11 +2782,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Pyro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2093,10 +2807,27 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              1 x Gladiator's Finale<br />1 x Emblem of Severed Fate<br />1 x
-              Gilded Dreams<br />
+              Artifacts<br />1 x Gladiator's Finale<br />1 x Emblem of Severed
+              Fate<br />1 x Gilded Dreams<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_4.png"
+                ,
+                height="18"
+              />
+              Gladiator's Nostalgia<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_1.png"
+                ,
+                height="18"
+              />
+              Scarlet Vessel<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_3.png"
+                ,
+                height="18"
+              />
+              Shadow of the Sand King<br />
             </td>
           </tr>
           <tr>
@@ -2113,7 +2844,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2157,11 +2888,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Electro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2176,7 +2913,7 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Artifacts<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -2193,7 +2930,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>1</td>
+            <td>★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2237,11 +2974,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Pyro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2256,8 +2999,23 @@
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>1 x Gilded Dreams<br />1 x Emblem of Severed Fate<br /></td>
+            <td>
+              Artifacts<br />1 x Gilded Dreams<br />1 x Emblem of Severed
+              Fate<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_2.png"
+                ,
+                height="18"
+              />
+              Feather of Judgment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_1.png"
+                ,
+                height="18"
+              />
+              Scarlet Vessel<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2273,7 +3031,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2317,11 +3075,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Cryo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2336,7 +3100,7 @@
             <td>2</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Artifacts<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -2353,7 +3117,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>1</td>
+            <td>★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2397,11 +3161,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Electro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2416,8 +3186,20 @@
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>2 x Pale Flame<br /></td>
+            <td>Artifacts<br />2 x Pale Flame<br /></td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_2.png"
+                ,
+                height="18"
+              />
+              Wise Doctor's Pinion<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_1.png"
+                ,
+                height="18"
+              />
+              Surpassing Cup<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2433,7 +3215,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2477,11 +3259,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Dendro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2496,8 +3284,15 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>1 x Bloodstained Chivalry<br /></td>
+            <td>Artifacts<br />1 x Bloodstained Chivalry<br /></td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15008_5.png"
+                ,
+                height="18"
+              />
+              Bloodstained Final Hour<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2513,7 +3308,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2557,11 +3352,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Anemo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2576,10 +3377,32 @@
             <td>4</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              1 x Blizzard Strayer<br />1 x Deepwood Memories<br />1 x
-              Gladiator's Finale<br />1 x Shimenawa's Reminiscence<br />
+              Artifacts<br />1 x Blizzard Strayer<br />1 x Deepwood Memories<br />1
+              x Gladiator's Finale<br />1 x Shimenawa's Reminiscence<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_4.png"
+                ,
+                height="18"
+              />
+              Snowswept Memory<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_2.png"
+                ,
+                height="18"
+              />
+              Scholar of Vines<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_1.png"
+                ,
+                height="18"
+              />
+              Gladiator's Intoxication<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
+                ,
+                height="18"
+              />
+              Capricious Visage<br />
             </td>
           </tr>
           <tr>
@@ -2596,7 +3419,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2640,11 +3463,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Cryo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2659,14 +3488,37 @@
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              1 x Shimenawa's Reminiscence<br />3 x Blizzard Strayer<br />
+              Artifacts<br />1 x Shimenawa's Reminiscence<br />3 x Blizzard
+              Strayer<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_4.png"
+                ,
+                height="18"
+              />
+              Entangling Bloom<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_2.png"
+                ,
+                height="18"
+              />
+              Icebreaker's Resolve<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_5.png"
+                ,
+                height="18"
+              />
+              Frozen Homeland's Demise<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_3.png"
+                ,
+                height="18"
+              />
+              Broken Rime's Echo<br />
             </td>
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>ถึงเสรีชนทางโบสถ์</td>
+            <td>To the Church's Free Spirit</td>
           </tr>
         </table>
       </td>
@@ -2678,7 +3530,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2722,11 +3574,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Hydro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2741,12 +3599,32 @@
             <td>3</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>1 x Husk of Opulent Dreams<br />2 x Noblesse Oblige<br /></td>
+            <td>
+              Artifacts<br />1 x Husk of Opulent Dreams<br />2 x Noblesse
+              Oblige<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_5.png"
+                ,
+                height="18"
+              />
+              Song of Life<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_1.png"
+                ,
+                height="18"
+              />
+              Royal Silver Urn<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_3.png"
+                ,
+                height="18"
+              />
+              Royal Masque<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>สัญญาแห่งดวงดาวและจันทรา</td>
+            <td>Pact of Stars and Moon</td>
           </tr>
         </table>
       </td>
@@ -2758,7 +3636,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2802,11 +3680,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Hydro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2821,15 +3705,42 @@
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              1 x Ocean-Hued Clam<br />1 x Gilded Dreams<br />1 x Deepwood
-              Memories<br />2 x Maiden Beloved<br />
+              Artifacts<br />1 x Ocean-Hued Clam<br />1 x Gilded Dreams<br />1 x
+              Deepwood Memories<br />2 x Maiden Beloved<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15022_4.png"
+                ,
+                height="18"
+              />
+              Sea-Dyed Blossom<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_2.png"
+                ,
+                height="18"
+              />
+              Feather of Judgment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_5.png"
+                ,
+                height="18"
+              />
+              A Time of Insight<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14004_1.png"
+                ,
+                height="18"
+              />
+              Maiden's Fleeting Leisure<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14004_3.png"
+                ,
+                height="18"
+              />
+              Maiden's Fading Beauty<br />
             </td>
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>ซัมเมอร์ซ่าท้าร้อน</td>
+            <td>Summertime Sparkle</td>
           </tr>
         </table>
       </td>
@@ -2841,7 +3752,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>3</td>
+            <td>★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2885,11 +3796,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Cryo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2904,8 +3821,15 @@
             <td>4</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>1 x Blizzard Strayer<br /></td>
+            <td>Artifacts<br />1 x Blizzard Strayer<br /></td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_4.png"
+                ,
+                height="18"
+              />
+              Snowswept Memory<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2921,7 +3845,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2965,11 +3889,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Geo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2984,10 +3914,32 @@
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              1 x Blizzard Strayer<br />2 x Retracing Bolide<br />1 x
-              Instructor<br />
+              Artifacts<br />1 x Blizzard Strayer<br />2 x Retracing Bolide<br />1
+              x Instructor<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_4.png"
+                ,
+                height="18"
+              />
+              Snowswept Memory<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15015_2.png"
+                ,
+                height="18"
+              />
+              Summer Night's Finale<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15015_5.png"
+                ,
+                height="18"
+              />
+              Summer Night's Moment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10007_1.png"
+                ,
+                height="18"
+              />
+              Instructor's Tea Cup<br />
             </td>
           </tr>
           <tr>
@@ -3004,7 +3956,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3048,11 +4000,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Pyro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3067,10 +4025,27 @@
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              1 x Noblesse Oblige<br />1 x Gilded Dreams<br />1 x Deepwood
-              Memories<br />
+              Artifacts<br />1 x Noblesse Oblige<br />1 x Gilded Dreams<br />1 x
+              Deepwood Memories<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_2.png"
+                ,
+                height="18"
+              />
+              Royal Plume<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_1.png"
+                ,
+                height="18"
+              />
+              Honeyed Final Feast<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_3.png"
+                ,
+                height="18"
+              />
+              Laurel Coronet<br />
             </td>
           </tr>
           <tr>
@@ -3087,7 +4062,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3131,11 +4106,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Anemo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3150,10 +4131,27 @@
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              1 x Instructor<br />1 x Maiden Beloved<br />1 x Wanderer's
-              Troupe<br />
+              Artifacts<br />1 x Instructor<br />1 x Maiden Beloved<br />1 x
+              Wanderer's Troupe<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10007_4.png"
+                ,
+                height="18"
+              />
+              Instructor's Brooch<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14004_5.png"
+                ,
+                height="18"
+              />
+              Maiden's Passing Youth<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_1.png"
+                ,
+                height="18"
+              />
+              Wanderer's String-Kettle<br />
             </td>
           </tr>
           <tr>
@@ -3170,7 +4168,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3214,11 +4212,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Pyro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3233,7 +4237,7 @@
             <td>5</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Artifacts<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -3250,7 +4254,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3294,11 +4298,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Pyro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3313,15 +4323,32 @@
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
             <td>
-              1 x Gladiator's Finale<br />1 x Ocean-Hued Clam<br />1 x
-              Vermillion Hereafter<br />
+              Artifacts<br />1 x Gladiator's Finale<br />1 x Ocean-Hued Clam<br />1
+              x Vermillion Hereafter<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_4.png"
+                ,
+                height="18"
+              />
+              Gladiator's Nostalgia<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15022_1.png"
+                ,
+                height="18"
+              />
+              Pearl Cage<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15023_3.png"
+                ,
+                height="18"
+              />
+              Thundering Poise<br />
             </td>
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>อัศวินลาดตระเวน 100%</td>
+            <td>100% Outrider</td>
           </tr>
         </table>
       </td>
@@ -3333,7 +4360,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>1</td>
+            <td>★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3377,11 +4404,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Electro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3396,8 +4429,20 @@
             <td>3</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>2 x Noblesse Oblige<br /></td>
+            <td>Artifacts<br />2 x Noblesse Oblige<br /></td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_4.png"
+                ,
+                height="18"
+              />
+              Royal Flora<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_2.png"
+                ,
+                height="18"
+              />
+              Royal Plume<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3413,7 +4458,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3457,11 +4502,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Dendro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3476,8 +4527,15 @@
             <td>4</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>1 x Gilded Dreams<br /></td>
+            <td>Artifacts<br />1 x Gilded Dreams<br /></td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
+                ,
+                height="18"
+              />
+              Dreaming Steelbloom<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3493,7 +4551,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3537,11 +4595,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Cryo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3556,7 +4620,7 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Artifacts<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -3573,7 +4637,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3617,11 +4681,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Electro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3636,7 +4706,7 @@
             <td>5</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Artifacts<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -3653,7 +4723,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>1</td>
+            <td>★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3697,11 +4767,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Electro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3716,12 +4792,19 @@
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
-            <td>1 x Deepwood Memories<br /></td>
+            <td>Artifacts<br />1 x Deepwood Memories<br /></td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_3.png"
+                ,
+                height="18"
+              />
+              Laurel Coronet<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>ห้วงฝันแห่งรัตติกาล</td>
+            <td>Ein Immernachtstraum</td>
           </tr>
         </table>
       </td>
@@ -3733,7 +4816,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>3</td>
+            <td>★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3777,11 +4860,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Pyro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3796,7 +4885,7 @@
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Artifacts<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -3813,7 +4902,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>1</td>
+            <td>★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3857,11 +4946,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Geo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3876,7 +4971,7 @@
             <td>5</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Artifacts<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -3893,7 +4988,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3937,11 +5032,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Cryo</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3956,7 +5057,7 @@
             <td>2</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Artifacts<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -3973,7 +5074,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4017,11 +5118,17 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>Electro</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png"
+                ,
+                height="18"
+              />
+            </td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4036,7 +5143,7 @@
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Artifacts<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -4053,7 +5160,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
