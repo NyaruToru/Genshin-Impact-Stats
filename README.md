@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 18, 2022 09:08 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 18, 2022 09:40 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>ความสำเร็จ</td>
-    <td>660</td>
+    <td>662</td>
   </tr>
   <tr>
     <td>จำนวนวันใช้งาน</td>
@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td>Common Chest</td>
-    <td>1742</td>
+    <td>1744</td>
   </tr>
   <tr>
     <td>Exquisite Chest</td>
@@ -62,11 +62,11 @@
   </tr>
   <tr>
     <td>Luxurious Chest</td>
-    <td>141</td>
+    <td>142</td>
   </tr>
   <tr>
     <td>จำนวนหีบสมบัติประหลาด</td>
-    <td>83</td>
+    <td>86</td>
   </tr>
   <tr>
     <td>ปลดล็อกดันเจี้ยน</td>
@@ -312,6 +312,11 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (3)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
@@ -326,12 +331,7 @@
         ,
         height="18"
       />
-      Albedo (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (3)<br />
+      Albedo (3)<br />
     </td>
   </tr>
   <tr>
