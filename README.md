@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 18, 2022 07:55 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 18, 2022 09:08 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>ความสำเร็จ</td>
-    <td>655</td>
+    <td>660</td>
   </tr>
   <tr>
     <td>จำนวนวันใช้งาน</td>
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>134</td>
+    <td>135</td>
   </tr>
   <tr>
     <td>Electroculus</td>
@@ -50,11 +50,11 @@
   </tr>
   <tr>
     <td>Common Chest</td>
-    <td>1736</td>
+    <td>1742</td>
   </tr>
   <tr>
     <td>Exquisite Chest</td>
-    <td>1202</td>
+    <td>1208</td>
   </tr>
   <tr>
     <td>Precious Chest</td>
@@ -158,7 +158,7 @@
         <tr>
           <td>สำรวจแล้ว</td>
           <td>
-            <img src="https://progress-bar.dev/50/" width="80" />
+            <img src="https://progress-bar.dev/51/" width="80" />
           </td>
         </tr>
         <tr>
@@ -312,26 +312,26 @@
     <td>จำนวนครั้งการเข้าต่อสู้</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
       />
-      Yae Miko (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+      Jean (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yelan (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+      Raiden Shogun (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
         ,
         height="18"
       />
-      Zhongli (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+      Albedo (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (3)<br />
+      Nahida (3)<br />
     </td>
   </tr>
   <tr>
@@ -394,17 +394,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5155 (rate -21)</td>
+    <td>5242 (rate -19)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2275333 (rate -59)</td>
+    <td>2532363 (rate -55)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2320 (46%)<br />Daily Activity: 970 (19%)<br />Events: 900 (18%)<br />Spiral
-      Abyss: 650 (13%)<br />Quests: 180 (3%)<br />Adventure: 100 (1%)<br />Other:
+      Mail: 2320 (45%)<br />Daily Activity: 970 (19%)<br />Events: 900 (18%)<br />Spiral
+      Abyss: 650 (12%)<br />Adventure: 187 (3%)<br />Quests: 180 (3%)<br />Other:
       35 (0%)<br />
     </td>
   </tr>
