@@ -1,5 +1,5 @@
 <h1 align="center">Genshin Stats</h1>
-<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 18, 2022 16:44 +0700</u></h3>
+<h3 align="center">🕒 อัพเดทเมื่อ <u>Dec 18, 2022 16:54 +0700</u></h3>
 <br />
 
 <h2>รางวัลรายวัน</h2>
@@ -294,19 +294,19 @@
   </tr>
   <tr>
     <td>การต่อสู้ทั้งหมด</td>
-    <td>3</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>ชนะทั้งหมด</td>
-    <td>3</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>ชั้นสูงสุด</td>
-    <td>9-3</td>
+    <td>10-3</td>
   </tr>
   <tr>
     <td>ดาว</td>
-    <td>9</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>จำนวนครั้งการเข้าต่อสู้</td>
@@ -316,22 +316,22 @@
         ,
         height="18"
       />
-      Albedo (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+      Albedo (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Nahida (3)<br /><img
+      Raiden Shogun (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Yae Miko (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+      Yae Miko (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Yelan (3)<br />
+      Zhongli (9)<br />
     </td>
   </tr>
   <tr>
@@ -342,18 +342,18 @@
         ,
         height="18"
       />
-      Nahida (23)<br />
+      Nahida (49)<br />
     </td>
   </tr>
   <tr>
     <td>โจมตีแรงสุด</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Raiden Shogun (78079)<br />
+      Hu Tao (155400)<br />
     </td>
   </tr>
   <tr>
@@ -364,18 +364,18 @@
         ,
         height="18"
       />
-      Yae Miko (2038)<br />
+      Yae Miko (75273)<br />
     </td>
   </tr>
   <tr>
     <td>จำนวนการใช้ท่าไม้ตาย</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Nahida (3)<br />
+      Yae Miko (14)<br />
     </td>
   </tr>
   <tr>
@@ -386,7 +386,7 @@
         ,
         height="18"
       />
-      Yae Miko (27)<br />
+      Yae Miko (148)<br />
     </td>
   </tr>
 </table>
