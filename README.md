@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 19, 2022 04:08 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 19, 2022 11:43 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,21 +342,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+      Yelan (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
       />
-      Yae Miko (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+      Jean (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
         ,
         height="18"
       />
-      Raiden Shogun (9)<br /><img
+      Albedo (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>6004 (rate -8)</td>
+    <td>6431 (rate -1)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>3178657 (rate -43)</td>
+    <td>3820738 (rate -32)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2320 (39%)<br />Events: 1080 (18%)<br />Daily Activity: 970 (17%)<br />Spiral
-      Abyss: 950 (16%)<br />Quests: 380 (6%)<br />Adventure: 239 (3%)<br />Other:
-      65 (1%)<br />
+      Mail: 2320 (37%)<br />Events: 1440 (23%)<br />Daily Activity: 1030
+      (17%)<br />Spiral Abyss: 950 (14%)<br />Quests: 380 (5%)<br />Adventure:
+      246 (3%)<br />Other: 65 (1%)<br />
     </td>
   </tr>
 </table>
