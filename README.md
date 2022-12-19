@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 19, 2022 21:28 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 19, 2022 21:37 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -1144,7 +1144,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yae Miko</h3></th>
-      <th><h3 align="center">Eye of Perception</h3></th>
+      <th><h3 align="center">The Widsith</h3></th>
     </tr>
     <tr>
       <td>
@@ -1157,7 +1157,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
           />
         </p>
       </td>
@@ -1193,20 +1193,36 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Gladiator's Finale<br />1 x Gilded Dreams<br />
+              Artifacts<br />4 x Flower of Paradise Lost<br />1 x Gladiator's
+              Finale<br />
             </td>
             <td>
               <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_4.png"
+                ,
+                height="18"
+              />
+              Ay-Khanoum's Myriad<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_2.png"
+                ,
+                height="18"
+              />
+              Wilting Feast<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_5.png"
+                ,
+                height="18"
+              />
+              A Moment Congealed<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_1.png"
                 ,
                 height="18"
               />
               Gladiator's Intoxication<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_3.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_3.png"
                 ,
                 height="18"
               />
-              Shadow of the Sand King<br />
+              Amethyst Crown<br />
             </td>
           </tr>
           <tr>
@@ -1219,7 +1235,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Eye of Perception</td>
+            <td>The Widsith</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1227,11 +1243,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -2176,8 +2192,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />4 x Husk of Opulent Dreams<br />1 x Wanderer's
-              Troupe<br />
+              Artifacts<br />3 x Husk of Opulent Dreams<br />1 x Shimenawa's
+              Reminiscence<br />1 x Wanderer's Troupe<br />
             </td>
             <td>
               <img
@@ -2191,11 +2207,11 @@
                 height="18"
               />
               Plume of Luxury<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_5.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
                 ,
                 height="18"
               />
-              Song of Life<br /><img
+              Morning Dew's Moment<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_1.png"
                 ,
                 height="18"
@@ -2291,10 +2307,7 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />4 x Husk of Opulent Dreams<br />1 x Shimenawa's
-              Reminiscence<br />
-            </td>
+            <td>Artifacts<br />5 x Husk of Opulent Dreams<br /></td>
             <td>
               <img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_4.png"
@@ -2307,11 +2320,11 @@
                 height="18"
               />
               Plume of Luxury<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_5.png"
                 ,
                 height="18"
               />
-              Morning Dew's Moment<br /><img
+              Song of Life<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_1.png"
                 ,
                 height="18"
@@ -3611,7 +3624,7 @@
   <table>
     <tr>
       <th><h3 align="center">Mona</h3></th>
-      <th><h3 align="center">The Widsith</h3></th>
+      <th><h3 align="center">Eye of Perception</h3></th>
     </tr>
     <tr>
       <td>
@@ -3624,7 +3637,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png"
           />
         </p>
       </td>
@@ -3692,7 +3705,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>The Widsith</td>
+            <td>Eye of Perception</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -3700,11 +3713,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
