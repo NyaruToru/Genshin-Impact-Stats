@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 19, 2022 16:44 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 19, 2022 16:54 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -347,21 +347,21 @@
         height="18"
       />
       Nahida (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br /><img
+      Yelan (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
       />
-      Jean (9)<br />
+      Jean (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br />
     </td>
   </tr>
   <tr>
@@ -1144,7 +1144,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yae Miko</h3></th>
-      <th><h3 align="center">Apprentice's Notes</h3></th>
+      <th><h3 align="center">Eye of Perception</h3></th>
     </tr>
     <tr>
       <td>
@@ -1157,7 +1157,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png"
           />
         </p>
       </td>
@@ -1219,11 +1219,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Apprentice's Notes</td>
+            <td>Eye of Perception</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1231,7 +1231,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
