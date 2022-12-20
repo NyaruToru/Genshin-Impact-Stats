@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 21, 2022 00:10 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 21, 2022 00:25 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -448,7 +448,7 @@
       />
       Mora earned
     </td>
-    <td>3894067 (rate -31)</td>
+    <td>3959258 (rate -30)</td>
   </tr>
   <tr>
     <td>Categories</td>
