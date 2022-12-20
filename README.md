@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 20, 2022 23:15 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 20, 2022 23:40 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,21 +342,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
       />
       Jean (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yae Miko (9)<br /><img
+      Raiden Shogun (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
         ,
         height="18"
@@ -401,11 +401,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Yelan (14)<br />
+      Nahida (14)<br />
     </td>
   </tr>
   <tr>
@@ -585,7 +585,7 @@
   <table>
     <tr>
       <th><h3 align="center">Jean</h3></th>
-      <th><h3 align="center">Skyward Blade</h3></th>
+      <th><h3 align="center">Aquila Favonia</h3></th>
     </tr>
     <tr>
       <td>
@@ -598,7 +598,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png"
           />
         </p>
       </td>
@@ -658,7 +658,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyward Blade</td>
+            <td>Aquila Favonia</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -666,11 +666,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -1144,7 +1144,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yae Miko</h3></th>
-      <th><h3 align="center">The Widsith</h3></th>
+      <th><h3 align="center">Skyward Atlas</h3></th>
     </tr>
     <tr>
       <td>
@@ -1157,7 +1157,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"
           />
         </p>
       </td>
@@ -1235,19 +1235,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>The Widsith</td>
+            <td>Skyward Atlas</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -1801,6 +1801,122 @@
   </table>
 </details>
 <details>
+  <summary><b>Arataki Itto</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Arataki Itto</h3></th>
+      <th><h3 align="center">Skyward Pride</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Itto.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dvalin.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />3 x Husk of Opulent Dreams<br />1 x Shimenawa's
+              Reminiscence<br />1 x Wanderer's Troupe<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_4.png"
+                ,
+                height="18"
+              />
+              Bloom Times<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_2.png"
+                ,
+                height="18"
+              />
+              Plume of Luxury<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
+                ,
+                height="18"
+              />
+              Morning Dew's Moment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_1.png"
+                ,
+                height="18"
+              />
+              Calabash of Awakening<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_3.png"
+                ,
+                height="18"
+              />
+              Conductor's Top Hat<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Skyward Pride</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Xingqiu</b></summary>
   <br />
   <table>
@@ -1912,7 +2028,7 @@
   <table>
     <tr>
       <th><h3 align="center">Bennett</h3></th>
-      <th><h3 align="center">Aquila Favonia</h3></th>
+      <th><h3 align="center">Skyward Blade</h3></th>
     </tr>
     <tr>
       <td>
@@ -1925,7 +2041,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png"
           />
         </p>
       </td>
@@ -2002,7 +2118,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Aquila Favonia</td>
+            <td>Skyward Blade</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2010,11 +2126,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -2131,122 +2247,6 @@
           <tr>
             <td>Refinement</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Arataki Itto</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Arataki Itto</h3></th>
-      <th><h3 align="center">Skyward Pride</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Itto.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dvalin.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★★</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png"
-                ,
-                height="18"
-              />
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>80</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>9</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />3 x Husk of Opulent Dreams<br />1 x Shimenawa's
-              Reminiscence<br />1 x Wanderer's Troupe<br />
-            </td>
-            <td>
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_4.png"
-                ,
-                height="18"
-              />
-              Bloom Times<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_2.png"
-                ,
-                height="18"
-              />
-              Plume of Luxury<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
-                ,
-                height="18"
-              />
-              Morning Dew's Moment<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15021_1.png"
-                ,
-                height="18"
-              />
-              Calabash of Awakening<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_3.png"
-                ,
-                height="18"
-              />
-              Conductor's Top Hat<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Skyward Pride</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★★</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>80</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3397,7 +3397,7 @@
   <table>
     <tr>
       <th><h3 align="center">Wanderer</h3></th>
-      <th><h3 align="center">Skyward Atlas</h3></th>
+      <th><h3 align="center">The Widsith</h3></th>
     </tr>
     <tr>
       <td>
@@ -3410,7 +3410,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
           />
         </p>
       </td>
@@ -3446,31 +3446,31 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Viridescent Venerer<br />2 x Shimenawa's
-              Reminiscence<br />1 x Gladiator's Finale<br />
+              Artifacts<br />4 x Desert Pavilion Chronicle<br />1 x Shimenawa's
+              Reminiscence<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_4.png"
                 ,
                 height="18"
               />
-              In Remembrance of Viridescent Fields<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png"
+              The First Days of the City of Kings<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_2.png"
                 ,
                 height="18"
               />
-              Shaft of Remembrance<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
+              End of the Golden Realm<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_5.png"
                 ,
                 height="18"
               />
-              Gladiator's Longing<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png"
+              Timepiece of the Lost Path<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_1.png"
                 ,
                 height="18"
               />
-              Viridescent Venerer's Vessel<br /><img
+              Defender of the Enchanting Dream<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
                 ,
                 height="18"
@@ -3488,19 +3488,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyward Atlas</td>
+            <td>The Widsith</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★★★</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -3780,7 +3780,7 @@
           <tr>
             <td>
               Artifacts<br />1 x Ocean-Hued Clam<br />1 x Gilded Dreams<br />1 x
-              Deepwood Memories<br />2 x Maiden Beloved<br />
+              Deepwood Memories<br />2 x Flower of Paradise Lost<br />
             </td>
             <td>
               <img
@@ -3799,16 +3799,16 @@
                 height="18"
               />
               A Time of Insight<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14004_1.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_1.png"
                 ,
                 height="18"
               />
-              Maiden's Fleeting Leisure<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14004_3.png"
+              Secret-Keeper's Magic Bottle<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_3.png"
                 ,
                 height="18"
               />
-              Maiden's Fading Beauty<br />
+              Amethyst Crown<br />
             </td>
           </tr>
           <tr>
