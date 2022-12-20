@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 20, 2022 21:56 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 20, 2022 22:14 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,11 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -357,11 +352,16 @@
         height="18"
       />
       Jean (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Raiden Shogun (9)<br />
+      Yae Miko (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
+        ,
+        height="18"
+      />
+      Albedo (9)<br />
     </td>
   </tr>
   <tr>
@@ -401,11 +401,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yae Miko (14)<br />
+      Yelan (14)<br />
     </td>
   </tr>
   <tr>
@@ -585,7 +585,7 @@
   <table>
     <tr>
       <th><h3 align="center">Jean</h3></th>
-      <th><h3 align="center">Aquila Favonia</h3></th>
+      <th><h3 align="center">Skyward Blade</h3></th>
     </tr>
     <tr>
       <td>
@@ -598,7 +598,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png"
           />
         </p>
       </td>
@@ -658,7 +658,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Aquila Favonia</td>
+            <td>Skyward Blade</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -666,11 +666,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -1912,7 +1912,7 @@
   <table>
     <tr>
       <th><h3 align="center">Bennett</h3></th>
-      <th><h3 align="center">Skyward Blade</h3></th>
+      <th><h3 align="center">Aquila Favonia</h3></th>
     </tr>
     <tr>
       <td>
@@ -1925,7 +1925,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png"
           />
         </p>
       </td>
@@ -2002,7 +2002,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyward Blade</td>
+            <td>Aquila Favonia</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2010,11 +2010,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
