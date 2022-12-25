@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 25, 2022 21:34 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 25, 2022 21:43 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,21 +342,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
         ,
         height="18"
       />
       Albedo (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Nahida (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (9)<br /><img
+      Yae Miko (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -401,11 +401,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Nahida (14)<br />
+      Yelan (14)<br />
     </td>
   </tr>
   <tr>
@@ -1532,14 +1532,36 @@
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts<br />1 x Gladiator's Finale<br /></td>
+            <td>
+              Artifacts<br />4 x Gilded Dreams<br />1 x Gladiator's Finale<br />
+            </td>
             <td>
               <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
+                ,
+                height="18"
+              />
+              Dreaming Steelbloom<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_2.png"
+                ,
+                height="18"
+              />
+              Feather of Judgment<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
                 ,
                 height="18"
               />
-              Gladiator's Longing<br />
+              Gladiator's Longing<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_1.png"
+                ,
+                height="18"
+              />
+              Honeyed Final Feast<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_3.png"
+                ,
+                height="18"
+              />
+              Shadow of the Sand King<br />
             </td>
           </tr>
           <tr>
