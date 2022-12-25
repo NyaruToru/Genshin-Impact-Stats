@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 25, 2022 06:54 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 25, 2022 07:58 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -524,7 +524,7 @@
           <tr>
             <td>
               Artifacts<br />2 x Noblesse Oblige<br />1 x Thundersoother<br />1
-              x Gladiator's Finale<br />
+              x Shimenawa's Reminiscence<br />
             </td>
             <td>
               <img
@@ -543,11 +543,11 @@
                 height="18"
               />
               Royal Silver Urn<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_3.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
                 ,
                 height="18"
               />
-              Gladiator's Triumphus<br />
+              Capricious Visage<br />
             </td>
           </tr>
           <tr>
@@ -633,14 +633,17 @@
             <td>2</td>
           </tr>
           <tr>
-            <td>Artifacts<br />2 x Shimenawa's Reminiscence<br /></td>
+            <td>
+              Artifacts<br />1 x Flower of Paradise Lost<br />1 x Shimenawa's
+              Reminiscence<br />
+            </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_4.png"
                 ,
                 height="18"
               />
-              Entangling Bloom<br /><img
+              Ay-Khanoum's Myriad<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png"
                 ,
                 height="18"
@@ -1193,36 +1196,36 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />4 x Flower of Paradise Lost<br />1 x Gladiator's
+              Artifacts<br />3 x Shimenawa's Reminiscence<br />2 x Gladiator's
               Finale<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_4.png"
                 ,
                 height="18"
               />
-              Ay-Khanoum's Myriad<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_2.png"
+              Entangling Bloom<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png"
                 ,
                 height="18"
               />
-              Wilting Feast<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_5.png"
+              Shaft of Remembrance<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
                 ,
                 height="18"
               />
-              A Moment Congealed<br /><img
+              Gladiator's Longing<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_1.png"
                 ,
                 height="18"
               />
               Gladiator's Intoxication<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_3.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
                 ,
                 height="18"
               />
-              Amethyst Crown<br />
+              Capricious Visage<br />
             </td>
           </tr>
           <tr>
@@ -1260,7 +1263,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yelan</h3></th>
-      <th><h3 align="center">The Stringless</h3></th>
+      <th><h3 align="center">Favonius Warbow</h3></th>
     </tr>
     <tr>
       <td>
@@ -1273,7 +1276,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
           />
         </p>
       </td>
@@ -1351,7 +1354,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>The Stringless</td>
+            <td>Favonius Warbow</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1359,11 +1362,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>4</td>
           </tr>
         </table>
       </td>
@@ -2143,7 +2146,7 @@
   <table>
     <tr>
       <th><h3 align="center">Diona</h3></th>
-      <th><h3 align="center">Sacrificial Bow</h3></th>
+      <th><h3 align="center">The Stringless</h3></th>
     </tr>
     <tr>
       <td>
@@ -2156,7 +2159,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
           />
         </p>
       </td>
@@ -2234,7 +2237,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Sacrificial Bow</td>
+            <td>The Stringless</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2242,11 +2245,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3335,8 +3338,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />4 x Desert Pavilion Chronicle<br />1 x Shimenawa's
-              Reminiscence<br />
+              Artifacts<br />4 x Desert Pavilion Chronicle<br />1 x Gladiator's
+              Finale<br />
             </td>
             <td>
               <img
@@ -3360,11 +3363,11 @@
                 height="18"
               />
               Defender of the Enchanting Dream<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_3.png"
                 ,
                 height="18"
               />
-              Capricious Visage<br />
+              Gladiator's Triumphus<br />
             </td>
           </tr>
           <tr>
@@ -5163,6 +5166,121 @@
   </table>
 </details>
 <details>
+  <summary><b>Faruzan</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Faruzan</h3></th>
+      <th><h3 align="center">Sacrificial Bow</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Faruzan.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />4 x Viridescent Venerer<br />1 x Gilded Dreams<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_4.png"
+                ,
+                height="18"
+              />
+              In Remembrance of Viridescent Fields<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_2.png"
+                ,
+                height="18"
+              />
+              Viridescent Arrow Feather<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_5.png"
+                ,
+                height="18"
+              />
+              The Sunken Years<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png"
+                ,
+                height="18"
+              />
+              Viridescent Venerer's Vessel<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_3.png"
+                ,
+                height="18"
+              />
+              Viridescent Venerer's Diadem<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Sacrificial Bow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Dori</b></summary>
   <br />
   <table>
@@ -5242,119 +5360,6 @@
           <tr>
             <td>Refinement</td>
             <td>2</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Faruzan</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Faruzan</h3></th>
-      <th><h3 align="center">Favonius Warbow</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Faruzan.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png"
-                ,
-                height="18"
-              />
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>40</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts<br />5 x Gilded Dreams<br /></td>
-            <td>
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
-                ,
-                height="18"
-              />
-              Dreaming Steelbloom<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_2.png"
-                ,
-                height="18"
-              />
-              Feather of Judgment<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_5.png"
-                ,
-                height="18"
-              />
-              The Sunken Years<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_1.png"
-                ,
-                height="18"
-              />
-              Honeyed Final Feast<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_3.png"
-                ,
-                height="18"
-              />
-              Shadow of the Sand King<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Favonius Warbow</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>4</td>
           </tr>
         </table>
       </td>
