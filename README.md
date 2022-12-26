@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 27, 2022 03:26 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 27, 2022 03:35 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>603</td>
+    <td>604</td>
   </tr>
   <tr>
     <td>Characters</td>
