@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 26, 2022 22:54 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 26, 2022 23:14 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -448,7 +448,7 @@
       />
       Mora earned
     </td>
-    <td>4171887 (rate -26)</td>
+    <td>4185062 (rate -26)</td>
   </tr>
   <tr>
     <td>Categories</td>
