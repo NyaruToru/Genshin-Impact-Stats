@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 27, 2022 04:09 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 27, 2022 04:21 +0700</u> (🤖automated)
 </h3>
 <br />
 
