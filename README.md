@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 29, 2022 04:09 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 29, 2022 04:21 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>7743 (rate 18)</td>
+    <td>7763 (rate 18)</td>
   </tr>
   <tr>
     <td>
@@ -448,12 +448,12 @@
       />
       Mora earned
     </td>
-    <td>5065937 (rate -10)</td>
+    <td>5081666 (rate -10)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2440 (32%)<br />Events: 2110 (28%)<br />Daily Activity: 1500
+      Mail: 2440 (32%)<br />Events: 2110 (28%)<br />Daily Activity: 1520
       (20%)<br />Spiral Abyss: 950 (12%)<br />Quests: 380 (4%)<br />Adventure:
       268 (3%)<br />Other: 95 (1%)<br />
     </td>
@@ -523,8 +523,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Noblesse Oblige<br />1 x Thundersoother<br />1
-              x Flower of Paradise Lost<br />1 x Shimenawa's Reminiscence<br />
+              Artifacts<br />2 x Noblesse Oblige<br />1 x Thundersoother<br />2
+              x Blizzard Strayer<br />
             </td>
             <td>
               <img
@@ -538,21 +538,21 @@
                 height="18"
               />
               Thundersoother's Plume<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_5.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_5.png"
                 ,
                 height="18"
               />
-              A Moment Congealed<br /><img
+              Frozen Homeland's Demise<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_1.png"
                 ,
                 height="18"
               />
               Royal Silver Urn<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_3.png"
                 ,
                 height="18"
               />
-              Capricious Visage<br />
+              Broken Rime's Echo<br />
             </td>
           </tr>
           <tr>
@@ -2513,6 +2513,122 @@
   </table>
 </details>
 <details>
+  <summary><b>Wanderer</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Wanderer</h3></th>
+      <th><h3 align="center">Skyward Atlas</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />4 x Desert Pavilion Chronicle<br />1 x Gladiator's
+              Finale<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_4.png"
+                ,
+                height="18"
+              />
+              The First Days of the City of Kings<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_2.png"
+                ,
+                height="18"
+              />
+              End of the Golden Realm<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_5.png"
+                ,
+                height="18"
+              />
+              Timepiece of the Lost Path<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_1.png"
+                ,
+                height="18"
+              />
+              Defender of the Enchanting Dream<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_3.png"
+                ,
+                height="18"
+              />
+              Gladiator's Triumphus<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Skyward Atlas</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Beidou</b></summary>
   <br />
   <table>
@@ -3034,122 +3150,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Wanderer</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Wanderer</h3></th>
-      <th><h3 align="center">Skyward Atlas</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★★</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png"
-                ,
-                height="18"
-              />
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />4 x Desert Pavilion Chronicle<br />1 x Gladiator's
-              Finale<br />
-            </td>
-            <td>
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_4.png"
-                ,
-                height="18"
-              />
-              The First Days of the City of Kings<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_2.png"
-                ,
-                height="18"
-              />
-              End of the Golden Realm<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_5.png"
-                ,
-                height="18"
-              />
-              Timepiece of the Lost Path<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_1.png"
-                ,
-                height="18"
-              />
-              Defender of the Enchanting Dream<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_3.png"
-                ,
-                height="18"
-              />
-              Gladiator's Triumphus<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Skyward Atlas</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★★</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>2</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Kaeya</b></summary>
   <br />
   <table>
@@ -3592,8 +3592,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Shimenawa's Reminiscence<br />3 x Blizzard
-              Strayer<br />
+              Artifacts<br />2 x Shimenawa's Reminiscence<br />1 x Blizzard
+              Strayer<br />1 x Flower of Paradise Lost<br />
             </td>
             <td>
               <img
@@ -3607,16 +3607,16 @@
                 height="18"
               />
               Icebreaker's Resolve<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_5.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_5.png"
                 ,
                 height="18"
               />
-              Frozen Homeland's Demise<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_3.png"
+              A Moment Congealed<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
                 ,
                 height="18"
               />
-              Broken Rime's Echo<br />
+              Capricious Visage<br />
             </td>
           </tr>
           <tr>
