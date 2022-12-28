@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 28, 2022 17:53 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 28, 2022 18:09 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -524,7 +524,7 @@
           <tr>
             <td>
               Artifacts<br />2 x Noblesse Oblige<br />1 x Thundersoother<br />1
-              x Shimenawa's Reminiscence<br />
+              x Flower of Paradise Lost<br />1 x Shimenawa's Reminiscence<br />
             </td>
             <td>
               <img
@@ -538,6 +538,11 @@
                 height="18"
               />
               Thundersoother's Plume<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_5.png"
+                ,
+                height="18"
+              />
+              A Moment Congealed<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_1.png"
                 ,
                 height="18"
