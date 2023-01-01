@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 01, 2023 15:54 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jan 01, 2023 16:10 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -1152,7 +1152,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yae Miko</h3></th>
-      <th><h3 align="center">The Widsith</h3></th>
+      <th><h3 align="center">Skyward Atlas</h3></th>
     </tr>
     <tr>
       <td>
@@ -1165,7 +1165,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"
           />
         </p>
       </td>
@@ -1201,26 +1201,26 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />3 x Shimenawa's Reminiscence<br />2 x Gladiator's
-              Finale<br />
+              Artifacts<br />3 x Desert Pavilion Chronicle<br />1 x Gladiator's
+              Finale<br />1 x Shimenawa's Reminiscence<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_4.png"
                 ,
                 height="18"
               />
-              Entangling Bloom<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png"
+              The First Days of the City of Kings<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_2.png"
                 ,
                 height="18"
               />
-              Shaft of Remembrance<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
+              End of the Golden Realm<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_5.png"
                 ,
                 height="18"
               />
-              Gladiator's Longing<br /><img
+              Timepiece of the Lost Path<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_1.png"
                 ,
                 height="18"
@@ -1243,19 +1243,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>The Widsith</td>
+            <td>Skyward Atlas</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -2518,7 +2518,7 @@
   <table>
     <tr>
       <th><h3 align="center">Wanderer</h3></th>
-      <th><h3 align="center">Skyward Atlas</h3></th>
+      <th><h3 align="center">The Widsith</h3></th>
     </tr>
     <tr>
       <td>
@@ -2531,7 +2531,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
           />
         </p>
       </td>
@@ -2567,31 +2567,31 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />4 x Desert Pavilion Chronicle<br />1 x Gladiator's
-              Finale<br />
+              Artifacts<br />2 x Viridescent Venerer<br />1 x Shimenawa's
+              Reminiscence<br />2 x Gladiator's Finale<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_4.png"
                 ,
                 height="18"
               />
-              The First Days of the City of Kings<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_2.png"
+              In Remembrance of Viridescent Fields<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png"
                 ,
                 height="18"
               />
-              End of the Golden Realm<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_5.png"
+              Shaft of Remembrance<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
                 ,
                 height="18"
               />
-              Timepiece of the Lost Path<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_1.png"
+              Gladiator's Longing<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png"
                 ,
                 height="18"
               />
-              Defender of the Enchanting Dream<br /><img
+              Viridescent Venerer's Vessel<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_3.png"
                 ,
                 height="18"
@@ -2609,19 +2609,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyward Atlas</td>
+            <td>The Widsith</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★★★</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -5247,15 +5247,17 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />4 x Viridescent Venerer<br />1 x Gilded Dreams<br />
+              Artifacts<br />1 x Shimenawa's Reminiscence<br />2 x Viridescent
+              Venerer<br />1 x Gilded Dreams<br />1 x Desert Pavilion
+              Chronicle<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_4.png"
                 ,
                 height="18"
               />
-              In Remembrance of Viridescent Fields<br /><img
+              Entangling Bloom<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_2.png"
                 ,
                 height="18"
@@ -5266,11 +5268,11 @@
                 height="18"
               />
               The Sunken Years<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_1.png"
                 ,
                 height="18"
               />
-              Viridescent Venerer's Vessel<br /><img
+              Defender of the Enchanting Dream<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_3.png"
                 ,
                 height="18"
