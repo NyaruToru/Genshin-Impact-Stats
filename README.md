@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 01, 2023 17:10 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jan 01, 2023 17:28 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -340,27 +340,84 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (29)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (133708)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (93973)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (22)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (128)<br />
+    </td>
   </tr>
 </table>
 <h2>
@@ -581,16 +638,16 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Flower of Paradise Lost<br />1 x Shimenawa's
+              Artifacts<br />1 x Viridescent Venerer<br />1 x Shimenawa's
               Reminiscence<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_4.png"
                 ,
                 height="18"
               />
-              Ay-Khanoum's Myriad<br /><img
+              In Remembrance of Viridescent Fields<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png"
                 ,
                 height="18"
@@ -732,7 +789,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1143,36 +1200,36 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />3 x Desert Pavilion Chronicle<br />1 x Gladiator's
-              Finale<br />1 x Shimenawa's Reminiscence<br />
+              Artifacts<br />2 x Shimenawa's Reminiscence<br />2 x Gilded
+              Dreams<br />1 x Gladiator's Finale<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_4.png"
                 ,
                 height="18"
               />
-              The First Days of the City of Kings<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_2.png"
+              Entangling Bloom<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png"
                 ,
                 height="18"
               />
-              End of the Golden Realm<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_5.png"
+              Shaft of Remembrance<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_5.png"
                 ,
                 height="18"
               />
-              Timepiece of the Lost Path<br /><img
+              The Sunken Years<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_1.png"
                 ,
                 height="18"
               />
               Gladiator's Intoxication<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_3.png"
                 ,
                 height="18"
               />
-              Capricious Visage<br />
+              Shadow of the Sand King<br />
             </td>
           </tr>
           <tr>
@@ -1595,8 +1652,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Tenacity of the Millelith<br />2 x Gilded
-              Dreams<br />1 x Wanderer's Troupe<br />
+              Artifacts<br />2 x Tenacity of the Millelith<br />1 x Flower of
+              Paradise Lost<br />1 x Wanderer's Troupe<br />1 x Gilded Dreams<br />
             </td>
             <td>
               <img
@@ -1605,11 +1662,11 @@
                 height="18"
               />
               Flower of Accolades<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_2.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_2.png"
                 ,
                 height="18"
               />
-              Feather of Judgment<br /><img
+              Wilting Feast<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_5.png"
                 ,
                 height="18"
@@ -2509,31 +2566,31 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Viridescent Venerer<br />1 x Shimenawa's
-              Reminiscence<br />2 x Gladiator's Finale<br />
+              Artifacts<br />4 x Desert Pavilion Chronicle<br />1 x Gladiator's
+              Finale<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_4.png"
                 ,
                 height="18"
               />
-              In Remembrance of Viridescent Fields<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png"
+              The First Days of the City of Kings<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_2.png"
                 ,
                 height="18"
               />
-              Shaft of Remembrance<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
+              End of the Golden Realm<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_5.png"
                 ,
                 height="18"
               />
-              Gladiator's Longing<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png"
+              Timepiece of the Lost Path<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_1.png"
                 ,
                 height="18"
               />
-              Viridescent Venerer's Vessel<br /><img
+              Defender of the Enchanting Dream<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_3.png"
                 ,
                 height="18"
@@ -3534,26 +3591,27 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Shimenawa's Reminiscence<br />1 x Blizzard
-              Strayer<br />1 x Flower of Paradise Lost<br />
+              Artifacts<br />1 x Flower of Paradise Lost<br />1 x Blizzard
+              Strayer<br />1 x Gladiator's Finale<br />1 x Shimenawa's
+              Reminiscence<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_4.png"
                 ,
                 height="18"
               />
-              Entangling Bloom<br /><img
+              Ay-Khanoum's Myriad<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_2.png"
                 ,
                 height="18"
               />
               Icebreaker's Resolve<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_5.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
                 ,
                 height="18"
               />
-              A Moment Congealed<br /><img
+              Gladiator's Longing<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
                 ,
                 height="18"
@@ -5189,9 +5247,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Shimenawa's Reminiscence<br />2 x Viridescent
-              Venerer<br />1 x Gilded Dreams<br />1 x Desert Pavilion
-              Chronicle<br />
+              Artifacts<br />1 x Shimenawa's Reminiscence<br />4 x Viridescent
+              Venerer<br />
             </td>
             <td>
               <img
@@ -5205,16 +5262,16 @@
                 height="18"
               />
               Viridescent Arrow Feather<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_5.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_5.png"
                 ,
                 height="18"
               />
-              The Sunken Years<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_1.png"
+              Viridescent Venerer's Determination<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png"
                 ,
                 height="18"
               />
-              Defender of the Enchanting Dream<br /><img
+              Viridescent Venerer's Vessel<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_3.png"
                 ,
                 height="18"
