@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 02, 2023 07:56 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jan 02, 2023 09:11 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
         ,
         height="18"
       />
       Albedo (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Raiden Shogun (9)<br />
+      Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (9)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>420 (rate -94)</td>
+    <td>570 (rate -92)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>442950 (rate -91)</td>
+    <td>553648 (rate -89)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 400 (96%)<br />Daily Activity: 20 (4%)<br />Events: 0
-      (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Spiral Abyss: 400 (71%)<br />Events: 90 (15%)<br />Daily Activity: 80
+      (14%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -474,7 +474,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kamisato Ayaka</h3></th>
-      <th><h3 align="center">Primordial Jade Cutter</h3></th>
+      <th><h3 align="center">Sacrificial Sword</h3></th>
     </tr>
     <tr>
       <td>
@@ -487,7 +487,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
           />
         </p>
       </td>
@@ -565,15 +565,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Primordial Jade Cutter</td>
+            <td>Sacrificial Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★★★</td>
+            <td>★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1087,7 +1087,10 @@
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts<br />5 x Emblem of Severed Fate<br /></td>
+            <td>
+              Artifacts<br />2 x Emblem of Severed Fate<br />1 x Shimenawa's
+              Reminiscence<br />1 x Deepwood Memories<br />
+            </td>
             <td>
               <img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_4.png"
@@ -1100,21 +1103,16 @@
                 height="18"
               />
               Sundered Feather<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_5.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
                 ,
                 height="18"
               />
-              Storm Cage<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_1.png"
+              Morning Dew's Moment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_3.png"
                 ,
                 height="18"
               />
-              Scarlet Vessel<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_3.png"
-                ,
-                height="18"
-              />
-              Ornate Kabuto<br />
+              Laurel Coronet<br />
             </td>
           </tr>
           <tr>
@@ -1201,21 +1199,21 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Shimenawa's Reminiscence<br />2 x Gilded
-              Dreams<br />1 x Gladiator's Finale<br />
+              Artifacts<br />1 x Emblem of Severed Fate<br />1 x Heart of
+              Depth<br />2 x Gilded Dreams<br />1 x Gladiator's Finale<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_4.png"
                 ,
                 height="18"
               />
-              Entangling Bloom<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png"
+              Magnificent Tsuba<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_2.png"
                 ,
                 height="18"
               />
-              Shaft of Remembrance<br /><img
+              Gust of Nostalgia<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_5.png"
                 ,
                 height="18"
@@ -1653,8 +1651,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Tenacity of the Millelith<br />1 x Flower of
-              Paradise Lost<br />1 x Wanderer's Troupe<br />1 x Gilded Dreams<br />
+              Artifacts<br />2 x Tenacity of the Millelith<br />2 x Gilded
+              Dreams<br />1 x Heart of Depth<br />
             </td>
             <td>
               <img
@@ -1663,16 +1661,16 @@
                 height="18"
               />
               Flower of Accolades<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15028_2.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_2.png"
                 ,
                 height="18"
               />
-              Wilting Feast<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_5.png"
+              Feather of Judgment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_5.png"
                 ,
                 height="18"
               />
-              Concert's Final Hour<br /><img
+              Copper Compass<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_1.png"
                 ,
                 height="18"
@@ -1952,7 +1950,7 @@
   <table>
     <tr>
       <th><h3 align="center">Xingqiu</h3></th>
-      <th><h3 align="center">Sacrificial Sword</h3></th>
+      <th><h3 align="center">Primordial Jade Cutter</h3></th>
     </tr>
     <tr>
       <td>
@@ -1965,7 +1963,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
           />
         </p>
       </td>
@@ -2001,26 +1999,36 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Emblem of Severed Fate<br />1 x Shimenawa's
-              Reminiscence<br />1 x Deepwood Memories<br />
+              Artifacts<br />2 x Shimenawa's Reminiscence<br />1 x Gladiator's
+              Finale<br />2 x Noblesse Oblige<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_4.png"
                 ,
                 height="18"
               />
-              Magnificent Tsuba<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
+              Entangling Bloom<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png"
                 ,
                 height="18"
               />
-              Morning Dew's Moment<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_3.png"
+              Shaft of Remembrance<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
                 ,
                 height="18"
               />
-              Laurel Coronet<br />
+              Gladiator's Longing<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_1.png"
+                ,
+                height="18"
+              />
+              Royal Silver Urn<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_3.png"
+                ,
+                height="18"
+              />
+              Royal Masque<br />
             </td>
           </tr>
           <tr>
@@ -2033,15 +2041,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Sacrificial Sword</td>
+            <td>Primordial Jade Cutter</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -2107,7 +2115,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Gladiator's Finale<br />4 x Noblesse Oblige<br />
+              Artifacts<br />2 x Gladiator's Finale<br />2 x Noblesse Oblige<br />1
+              x Emblem of Severed Fate<br />
             </td>
             <td>
               <img
@@ -2126,16 +2135,16 @@
                 height="18"
               />
               Royal Pocket Watch<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_1.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_1.png"
                 ,
                 height="18"
               />
-              Royal Silver Urn<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_3.png"
+              Gladiator's Intoxication<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_3.png"
                 ,
                 height="18"
               />
-              Royal Masque<br />
+              Ornate Kabuto<br />
             </td>
           </tr>
           <tr>
@@ -2222,8 +2231,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Gladiator's Finale<br />2 x Heart of Depth<br />1
-              x Noblesse Oblige<br />1 x Wanderer's Troupe<br />
+              Artifacts<br />1 x Gladiator's Finale<br />2 x Wanderer's
+              Troupe<br />1 x Noblesse Oblige<br />
             </td>
             <td>
               <img
@@ -2232,16 +2241,11 @@
                 height="18"
               />
               Gladiator's Nostalgia<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_2.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_5.png"
                 ,
                 height="18"
               />
-              Gust of Nostalgia<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_5.png"
-                ,
-                height="18"
-              />
-              Copper Compass<br /><img
+              Concert's Final Hour<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_1.png"
                 ,
                 height="18"
@@ -3482,7 +3486,7 @@
           <tr>
             <td>
               Artifacts<br />1 x Blizzard Strayer<br />1 x Deepwood Memories<br />1
-              x Gladiator's Finale<br />1 x Shimenawa's Reminiscence<br />
+              x Emblem of Severed Fate<br />1 x Shimenawa's Reminiscence<br />
             </td>
             <td>
               <img
@@ -3496,11 +3500,11 @@
                 height="18"
               />
               Scholar of Vines<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_1.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_1.png"
                 ,
                 height="18"
               />
-              Gladiator's Intoxication<br /><img
+              Scarlet Vessel<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
                 ,
                 height="18"
@@ -3593,7 +3597,7 @@
           <tr>
             <td>
               Artifacts<br />1 x Flower of Paradise Lost<br />1 x Blizzard
-              Strayer<br />1 x Gladiator's Finale<br />1 x Shimenawa's
+              Strayer<br />1 x Emblem of Severed Fate<br />1 x Shimenawa's
               Reminiscence<br />
             </td>
             <td>
@@ -3608,11 +3612,11 @@
                 height="18"
               />
               Icebreaker's Resolve<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_5.png"
                 ,
                 height="18"
               />
-              Gladiator's Longing<br /><img
+              Storm Cage<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
                 ,
                 height="18"
