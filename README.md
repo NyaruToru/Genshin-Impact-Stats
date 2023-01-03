@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 03, 2023 12:24 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jan 03, 2023 12:34 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -347,21 +347,21 @@
         height="18"
       />
       Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
+        ,
+        height="18"
+      />
+      Albedo (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
       Yae Miko (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Raiden Shogun (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
-        ,
-        height="18"
-      />
-      Albedo (9)<br />
+      Yelan (9)<br />
     </td>
   </tr>
   <tr>
