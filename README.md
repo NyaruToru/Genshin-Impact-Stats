@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 10, 2023 22:51 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jan 10, 2023 23:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -342,16 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -361,7 +351,17 @@
         ,
         height="18"
       />
-      Raiden Shogun (9)<br />
+      Raiden Shogun (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (9)<br />
     </td>
   </tr>
   <tr>
@@ -1377,6 +1377,121 @@
   </table>
 </details>
 <details>
+  <summary><b>Nahida</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Nahida</h3></th>
+      <th><h3 align="center">Sacrificial Fragments</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />4 x Gilded Dreams<br />1 x Gladiator's Finale<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
+                ,
+                height="18"
+              />
+              Dreaming Steelbloom<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_2.png"
+                ,
+                height="18"
+              />
+              Feather of Judgment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
+                ,
+                height="18"
+              />
+              Gladiator's Longing<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_1.png"
+                ,
+                height="18"
+              />
+              Honeyed Final Feast<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_3.png"
+                ,
+                height="18"
+              />
+              Shadow of the Sand King<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Sacrificial Fragments</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Ningguang</b></summary>
   <br />
   <table>
@@ -1591,121 +1706,6 @@
           <tr>
             <td>Refinement</td>
             <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Nahida</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Nahida</h3></th>
-      <th><h3 align="center">Sacrificial Fragments</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★★</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.png"
-                ,
-                height="18"
-              />
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>9</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />4 x Gilded Dreams<br />1 x Gladiator's Finale<br />
-            </td>
-            <td>
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
-                ,
-                height="18"
-              />
-              Dreaming Steelbloom<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_2.png"
-                ,
-                height="18"
-              />
-              Feather of Judgment<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
-                ,
-                height="18"
-              />
-              Gladiator's Longing<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_1.png"
-                ,
-                height="18"
-              />
-              Honeyed Final Feast<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_3.png"
-                ,
-                height="18"
-              />
-              Shadow of the Sand King<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Sacrificial Fragments</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
           </tr>
         </table>
       </td>
