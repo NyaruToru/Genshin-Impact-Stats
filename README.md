@@ -1,6 +1,6 @@
 <h1 align="center">Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 10, 2023 22:37 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jan 10, 2023 22:51 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1210</td>
+    <td>1211</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
